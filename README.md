@@ -8,6 +8,7 @@ Build Guides: (YouTube tutorials, Instructables, PDF blueprints)
 
 * Aeroponics - Wikipedia https://share.google/OZA39xTsXsD11DDf8
 * Indoor Gardening Without Soil: An Introduction to Aeroponics and Fogponics – Plantaform https://share.google/ZPgWwprwhyglKgbSY
+* Pool Noodle grow medium:  https://youtu.be/JXKfIASdSqM?si=bPUsOd1ARqivd9gA
 
 Components: (Pumps, Grow Lights, Net Pots, Growing Media)
 
