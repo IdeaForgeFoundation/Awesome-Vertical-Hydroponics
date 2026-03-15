@@ -1,0 +1,2504 @@
+# Todo List
+
+A comprehensive list of 2500 potential tasks for the Vertical Hydroponics project.
+
+- [ ] Automate A-Frame system for automated operation
+- [ ] Automate A-Frame system for high-density urban farming
+- [ ] Automate A-Frame system for maximum yield
+- [ ] Automate A-Frame system for off-grid capability
+- [ ] Automate A-Frame system for power efficiency
+- [ ] Automate A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Automate A-Frame system for the Greenhouse build
+- [ ] Automate A-Frame system to improve root oxygenation
+- [ ] Automate A-Frame system to lower maintenance time
+- [ ] Automate A-Frame system to prevent algae growth
+- [ ] Automate A-Frame system to reduce water usage
+- [ ] Automate A-Frame system to stabilize pH levels
+- [ ] Automate Aeroponics misting nozzles for automated operation
+- [ ] Automate Aeroponics misting nozzles for high-density urban farming
+- [ ] Automate Aeroponics misting nozzles for maximum yield
+- [ ] Automate Aeroponics misting nozzles for off-grid capability
+- [ ] Automate Aeroponics misting nozzles for power efficiency
+- [ ] Automate Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Aeroponics misting nozzles for the Greenhouse build
+- [ ] Automate Aeroponics misting nozzles to improve root oxygenation
+- [ ] Automate Aeroponics misting nozzles to lower maintenance time
+- [ ] Automate Aeroponics misting nozzles to prevent algae growth
+- [ ] Automate Aeroponics misting nozzles to reduce water usage
+- [ ] Automate Aeroponics misting nozzles to stabilize pH levels
+- [ ] Automate Air pumps for automated operation
+- [ ] Automate Air pumps for high-density urban farming
+- [ ] Automate Air pumps for maximum yield
+- [ ] Automate Air pumps for off-grid capability
+- [ ] Automate Air pumps for power efficiency
+- [ ] Automate Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Air pumps for the Greenhouse build
+- [ ] Automate Air pumps to improve root oxygenation
+- [ ] Automate Air pumps to lower maintenance time
+- [ ] Automate Air pumps to prevent algae growth
+- [ ] Automate Air pumps to reduce water usage
+- [ ] Automate Air pumps to stabilize pH levels
+- [ ] Automate Airstones for automated operation
+- [ ] Automate Airstones for high-density urban farming
+- [ ] Automate Airstones for maximum yield
+- [ ] Automate Airstones for off-grid capability
+- [ ] Automate Airstones for power efficiency
+- [ ] Automate Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Airstones for the Greenhouse build
+- [ ] Automate Airstones to improve root oxygenation
+- [ ] Automate Airstones to lower maintenance time
+- [ ] Automate Airstones to prevent algae growth
+- [ ] Automate Airstones to reduce water usage
+- [ ] Automate Airstones to stabilize pH levels
+- [ ] Automate Arduino pH sensors for automated operation
+- [ ] Automate Arduino pH sensors for high-density urban farming
+- [ ] Automate Arduino pH sensors for maximum yield
+- [ ] Automate Arduino pH sensors for off-grid capability
+- [ ] Automate Arduino pH sensors for power efficiency
+- [ ] Automate Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Arduino pH sensors for the Greenhouse build
+- [ ] Automate Arduino pH sensors to improve root oxygenation
+- [ ] Automate Arduino pH sensors to lower maintenance time
+- [ ] Automate Arduino pH sensors to prevent algae growth
+- [ ] Automate Arduino pH sensors to reduce water usage
+- [ ] Automate Arduino pH sensors to stabilize pH levels
+- [ ] Automate Clay pebbles (Hydroton) for automated operation
+- [ ] Automate Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Automate Clay pebbles (Hydroton) for maximum yield
+- [ ] Automate Clay pebbles (Hydroton) for off-grid capability
+- [ ] Automate Clay pebbles (Hydroton) for power efficiency
+- [ ] Automate Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Automate Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Automate Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Automate Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Automate Clay pebbles (Hydroton) to reduce water usage
+- [ ] Automate Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Automate Drip irrigation emitters for automated operation
+- [ ] Automate Drip irrigation emitters for high-density urban farming
+- [ ] Automate Drip irrigation emitters for maximum yield
+- [ ] Automate Drip irrigation emitters for off-grid capability
+- [ ] Automate Drip irrigation emitters for power efficiency
+- [ ] Automate Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Drip irrigation emitters for the Greenhouse build
+- [ ] Automate Drip irrigation emitters to improve root oxygenation
+- [ ] Automate Drip irrigation emitters to lower maintenance time
+- [ ] Automate Drip irrigation emitters to prevent algae growth
+- [ ] Automate Drip irrigation emitters to reduce water usage
+- [ ] Automate Drip irrigation emitters to stabilize pH levels
+- [ ] Automate Fogponics ultrasonic foggers for automated operation
+- [ ] Automate Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Automate Fogponics ultrasonic foggers for maximum yield
+- [ ] Automate Fogponics ultrasonic foggers for off-grid capability
+- [ ] Automate Fogponics ultrasonic foggers for power efficiency
+- [ ] Automate Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Automate Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Automate Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Automate Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Automate Fogponics ultrasonic foggers to reduce water usage
+- [ ] Automate Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Automate LED Grow Lights for automated operation
+- [ ] Automate LED Grow Lights for high-density urban farming
+- [ ] Automate LED Grow Lights for maximum yield
+- [ ] Automate LED Grow Lights for off-grid capability
+- [ ] Automate LED Grow Lights for power efficiency
+- [ ] Automate LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Automate LED Grow Lights for the Greenhouse build
+- [ ] Automate LED Grow Lights to improve root oxygenation
+- [ ] Automate LED Grow Lights to lower maintenance time
+- [ ] Automate LED Grow Lights to prevent algae growth
+- [ ] Automate LED Grow Lights to reduce water usage
+- [ ] Automate LED Grow Lights to stabilize pH levels
+- [ ] Automate Net Pots for automated operation
+- [ ] Automate Net Pots for high-density urban farming
+- [ ] Automate Net Pots for maximum yield
+- [ ] Automate Net Pots for off-grid capability
+- [ ] Automate Net Pots for power efficiency
+- [ ] Automate Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Net Pots for the Greenhouse build
+- [ ] Automate Net Pots to improve root oxygenation
+- [ ] Automate Net Pots to lower maintenance time
+- [ ] Automate Net Pots to prevent algae growth
+- [ ] Automate Net Pots to reduce water usage
+- [ ] Automate Net Pots to stabilize pH levels
+- [ ] Automate PVC Window Farms for automated operation
+- [ ] Automate PVC Window Farms for high-density urban farming
+- [ ] Automate PVC Window Farms for maximum yield
+- [ ] Automate PVC Window Farms for off-grid capability
+- [ ] Automate PVC Window Farms for power efficiency
+- [ ] Automate PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Automate PVC Window Farms for the Greenhouse build
+- [ ] Automate PVC Window Farms to improve root oxygenation
+- [ ] Automate PVC Window Farms to lower maintenance time
+- [ ] Automate PVC Window Farms to prevent algae growth
+- [ ] Automate PVC Window Farms to reduce water usage
+- [ ] Automate PVC Window Farms to stabilize pH levels
+- [ ] Automate Pool Noodle grow medium for automated operation
+- [ ] Automate Pool Noodle grow medium for high-density urban farming
+- [ ] Automate Pool Noodle grow medium for maximum yield
+- [ ] Automate Pool Noodle grow medium for off-grid capability
+- [ ] Automate Pool Noodle grow medium for power efficiency
+- [ ] Automate Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Pool Noodle grow medium for the Greenhouse build
+- [ ] Automate Pool Noodle grow medium to improve root oxygenation
+- [ ] Automate Pool Noodle grow medium to lower maintenance time
+- [ ] Automate Pool Noodle grow medium to prevent algae growth
+- [ ] Automate Pool Noodle grow medium to reduce water usage
+- [ ] Automate Pool Noodle grow medium to stabilize pH levels
+- [ ] Automate Raspberry Pi nutrient dosers for automated operation
+- [ ] Automate Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Automate Raspberry Pi nutrient dosers for maximum yield
+- [ ] Automate Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Automate Raspberry Pi nutrient dosers for power efficiency
+- [ ] Automate Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Automate Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Automate Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Automate Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Automate Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Automate Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Automate Reservoir tanks for automated operation
+- [ ] Automate Reservoir tanks for high-density urban farming
+- [ ] Automate Reservoir tanks for maximum yield
+- [ ] Automate Reservoir tanks for off-grid capability
+- [ ] Automate Reservoir tanks for power efficiency
+- [ ] Automate Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Reservoir tanks for the Greenhouse build
+- [ ] Automate Reservoir tanks to improve root oxygenation
+- [ ] Automate Reservoir tanks to lower maintenance time
+- [ ] Automate Reservoir tanks to prevent algae growth
+- [ ] Automate Reservoir tanks to reduce water usage
+- [ ] Automate Reservoir tanks to stabilize pH levels
+- [ ] Automate Rockwool cubes for automated operation
+- [ ] Automate Rockwool cubes for high-density urban farming
+- [ ] Automate Rockwool cubes for maximum yield
+- [ ] Automate Rockwool cubes for off-grid capability
+- [ ] Automate Rockwool cubes for power efficiency
+- [ ] Automate Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Rockwool cubes for the Greenhouse build
+- [ ] Automate Rockwool cubes to improve root oxygenation
+- [ ] Automate Rockwool cubes to lower maintenance time
+- [ ] Automate Rockwool cubes to prevent algae growth
+- [ ] Automate Rockwool cubes to reduce water usage
+- [ ] Automate Rockwool cubes to stabilize pH levels
+- [ ] Automate Timer relays for automated operation
+- [ ] Automate Timer relays for high-density urban farming
+- [ ] Automate Timer relays for maximum yield
+- [ ] Automate Timer relays for off-grid capability
+- [ ] Automate Timer relays for power efficiency
+- [ ] Automate Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Timer relays for the Greenhouse build
+- [ ] Automate Timer relays to improve root oxygenation
+- [ ] Automate Timer relays to lower maintenance time
+- [ ] Automate Timer relays to prevent algae growth
+- [ ] Automate Timer relays to reduce water usage
+- [ ] Automate Timer relays to stabilize pH levels
+- [ ] Automate Vertical Towers for automated operation
+- [ ] Automate Vertical Towers for high-density urban farming
+- [ ] Automate Vertical Towers for maximum yield
+- [ ] Automate Vertical Towers for off-grid capability
+- [ ] Automate Vertical Towers for power efficiency
+- [ ] Automate Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Vertical Towers for the Greenhouse build
+- [ ] Automate Vertical Towers to improve root oxygenation
+- [ ] Automate Vertical Towers to lower maintenance time
+- [ ] Automate Vertical Towers to prevent algae growth
+- [ ] Automate Vertical Towers to reduce water usage
+- [ ] Automate Vertical Towers to stabilize pH levels
+- [ ] Automate Water pumps for automated operation
+- [ ] Automate Water pumps for high-density urban farming
+- [ ] Automate Water pumps for maximum yield
+- [ ] Automate Water pumps for off-grid capability
+- [ ] Automate Water pumps for power efficiency
+- [ ] Automate Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Water pumps for the Greenhouse build
+- [ ] Automate Water pumps to improve root oxygenation
+- [ ] Automate Water pumps to lower maintenance time
+- [ ] Automate Water pumps to prevent algae growth
+- [ ] Automate Water pumps to reduce water usage
+- [ ] Automate Water pumps to stabilize pH levels
+- [ ] Automate Water temperature sensors for automated operation
+- [ ] Automate Water temperature sensors for high-density urban farming
+- [ ] Automate Water temperature sensors for maximum yield
+- [ ] Automate Water temperature sensors for off-grid capability
+- [ ] Automate Water temperature sensors for power efficiency
+- [ ] Automate Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Automate Water temperature sensors for the Greenhouse build
+- [ ] Automate Water temperature sensors to improve root oxygenation
+- [ ] Automate Water temperature sensors to lower maintenance time
+- [ ] Automate Water temperature sensors to prevent algae growth
+- [ ] Automate Water temperature sensors to reduce water usage
+- [ ] Automate Water temperature sensors to stabilize pH levels
+- [ ] Automate ZipGrow style setup for automated operation
+- [ ] Automate ZipGrow style setup for high-density urban farming
+- [ ] Automate ZipGrow style setup for maximum yield
+- [ ] Automate ZipGrow style setup for off-grid capability
+- [ ] Automate ZipGrow style setup for power efficiency
+- [ ] Automate ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Automate ZipGrow style setup for the Greenhouse build
+- [ ] Automate ZipGrow style setup to improve root oxygenation
+- [ ] Automate ZipGrow style setup to lower maintenance time
+- [ ] Automate ZipGrow style setup to prevent algae growth
+- [ ] Automate ZipGrow style setup to reduce water usage
+- [ ] Automate ZipGrow style setup to stabilize pH levels
+- [ ] Build A-Frame system for automated operation
+- [ ] Build A-Frame system for high-density urban farming
+- [ ] Build A-Frame system for maximum yield
+- [ ] Build A-Frame system for off-grid capability
+- [ ] Build A-Frame system for power efficiency
+- [ ] Build A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Build A-Frame system for the Greenhouse build
+- [ ] Build A-Frame system to improve root oxygenation
+- [ ] Build A-Frame system to lower maintenance time
+- [ ] Build A-Frame system to prevent algae growth
+- [ ] Build A-Frame system to reduce water usage
+- [ ] Build A-Frame system to stabilize pH levels
+- [ ] Build Aeroponics misting nozzles for automated operation
+- [ ] Build Aeroponics misting nozzles for high-density urban farming
+- [ ] Build Aeroponics misting nozzles for maximum yield
+- [ ] Build Aeroponics misting nozzles for off-grid capability
+- [ ] Build Aeroponics misting nozzles for power efficiency
+- [ ] Build Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Build Aeroponics misting nozzles for the Greenhouse build
+- [ ] Build Aeroponics misting nozzles to improve root oxygenation
+- [ ] Build Aeroponics misting nozzles to lower maintenance time
+- [ ] Build Aeroponics misting nozzles to prevent algae growth
+- [ ] Build Aeroponics misting nozzles to reduce water usage
+- [ ] Build Aeroponics misting nozzles to stabilize pH levels
+- [ ] Build Air pumps for automated operation
+- [ ] Build Air pumps for high-density urban farming
+- [ ] Build Air pumps for maximum yield
+- [ ] Build Air pumps for off-grid capability
+- [ ] Build Air pumps for power efficiency
+- [ ] Build Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Build Air pumps for the Greenhouse build
+- [ ] Build Air pumps to improve root oxygenation
+- [ ] Build Air pumps to lower maintenance time
+- [ ] Build Air pumps to prevent algae growth
+- [ ] Build Air pumps to reduce water usage
+- [ ] Build Air pumps to stabilize pH levels
+- [ ] Build Airstones for automated operation
+- [ ] Build Airstones for high-density urban farming
+- [ ] Build Airstones for maximum yield
+- [ ] Build Airstones for off-grid capability
+- [ ] Build Airstones for power efficiency
+- [ ] Build Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Build Airstones for the Greenhouse build
+- [ ] Build Airstones to improve root oxygenation
+- [ ] Build Airstones to lower maintenance time
+- [ ] Build Airstones to prevent algae growth
+- [ ] Build Airstones to reduce water usage
+- [ ] Build Airstones to stabilize pH levels
+- [ ] Build Arduino pH sensors for automated operation
+- [ ] Build Arduino pH sensors for high-density urban farming
+- [ ] Build Arduino pH sensors for maximum yield
+- [ ] Build Arduino pH sensors for off-grid capability
+- [ ] Build Arduino pH sensors for power efficiency
+- [ ] Build Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Build Arduino pH sensors for the Greenhouse build
+- [ ] Build Arduino pH sensors to improve root oxygenation
+- [ ] Build Arduino pH sensors to lower maintenance time
+- [ ] Build Arduino pH sensors to prevent algae growth
+- [ ] Build Arduino pH sensors to reduce water usage
+- [ ] Build Arduino pH sensors to stabilize pH levels
+- [ ] Build Clay pebbles (Hydroton) for automated operation
+- [ ] Build Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Build Clay pebbles (Hydroton) for maximum yield
+- [ ] Build Clay pebbles (Hydroton) for off-grid capability
+- [ ] Build Clay pebbles (Hydroton) for power efficiency
+- [ ] Build Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Build Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Build Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Build Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Build Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Build Clay pebbles (Hydroton) to reduce water usage
+- [ ] Build Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Build Drip irrigation emitters for automated operation
+- [ ] Build Drip irrigation emitters for high-density urban farming
+- [ ] Build Drip irrigation emitters for maximum yield
+- [ ] Build Drip irrigation emitters for off-grid capability
+- [ ] Build Drip irrigation emitters for power efficiency
+- [ ] Build Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Build Drip irrigation emitters for the Greenhouse build
+- [ ] Build Drip irrigation emitters to improve root oxygenation
+- [ ] Build Drip irrigation emitters to lower maintenance time
+- [ ] Build Drip irrigation emitters to prevent algae growth
+- [ ] Build Drip irrigation emitters to reduce water usage
+- [ ] Build Drip irrigation emitters to stabilize pH levels
+- [ ] Build Fogponics ultrasonic foggers for automated operation
+- [ ] Build Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Build Fogponics ultrasonic foggers for maximum yield
+- [ ] Build Fogponics ultrasonic foggers for off-grid capability
+- [ ] Build Fogponics ultrasonic foggers for power efficiency
+- [ ] Build Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Build Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Build Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Build Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Build Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Build Fogponics ultrasonic foggers to reduce water usage
+- [ ] Build Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Build LED Grow Lights for automated operation
+- [ ] Build LED Grow Lights for high-density urban farming
+- [ ] Build LED Grow Lights for maximum yield
+- [ ] Build LED Grow Lights for off-grid capability
+- [ ] Build LED Grow Lights for power efficiency
+- [ ] Build LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Build LED Grow Lights for the Greenhouse build
+- [ ] Build LED Grow Lights to improve root oxygenation
+- [ ] Build LED Grow Lights to lower maintenance time
+- [ ] Build LED Grow Lights to prevent algae growth
+- [ ] Build LED Grow Lights to reduce water usage
+- [ ] Build LED Grow Lights to stabilize pH levels
+- [ ] Build Net Pots for automated operation
+- [ ] Build Net Pots for high-density urban farming
+- [ ] Build Net Pots for maximum yield
+- [ ] Build Net Pots for off-grid capability
+- [ ] Build Net Pots for power efficiency
+- [ ] Build Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Build Net Pots for the Greenhouse build
+- [ ] Build Net Pots to improve root oxygenation
+- [ ] Build Net Pots to lower maintenance time
+- [ ] Build Net Pots to prevent algae growth
+- [ ] Build Net Pots to reduce water usage
+- [ ] Build Net Pots to stabilize pH levels
+- [ ] Build PVC Window Farms for automated operation
+- [ ] Build PVC Window Farms for high-density urban farming
+- [ ] Build PVC Window Farms for maximum yield
+- [ ] Build PVC Window Farms for off-grid capability
+- [ ] Build PVC Window Farms for power efficiency
+- [ ] Build PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Build PVC Window Farms for the Greenhouse build
+- [ ] Build PVC Window Farms to improve root oxygenation
+- [ ] Build PVC Window Farms to lower maintenance time
+- [ ] Build PVC Window Farms to prevent algae growth
+- [ ] Build PVC Window Farms to reduce water usage
+- [ ] Build PVC Window Farms to stabilize pH levels
+- [ ] Build Pool Noodle grow medium for automated operation
+- [ ] Build Pool Noodle grow medium for high-density urban farming
+- [ ] Build Pool Noodle grow medium for maximum yield
+- [ ] Build Pool Noodle grow medium for off-grid capability
+- [ ] Build Pool Noodle grow medium for power efficiency
+- [ ] Build Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Build Pool Noodle grow medium for the Greenhouse build
+- [ ] Build Pool Noodle grow medium to improve root oxygenation
+- [ ] Build Pool Noodle grow medium to lower maintenance time
+- [ ] Build Pool Noodle grow medium to prevent algae growth
+- [ ] Build Pool Noodle grow medium to reduce water usage
+- [ ] Build Pool Noodle grow medium to stabilize pH levels
+- [ ] Build Raspberry Pi nutrient dosers for automated operation
+- [ ] Build Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Build Raspberry Pi nutrient dosers for maximum yield
+- [ ] Build Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Build Raspberry Pi nutrient dosers for power efficiency
+- [ ] Build Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Build Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Build Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Build Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Build Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Build Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Build Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Build Reservoir tanks for automated operation
+- [ ] Build Reservoir tanks for high-density urban farming
+- [ ] Build Reservoir tanks for maximum yield
+- [ ] Build Reservoir tanks for off-grid capability
+- [ ] Build Reservoir tanks for power efficiency
+- [ ] Build Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Build Reservoir tanks for the Greenhouse build
+- [ ] Build Reservoir tanks to improve root oxygenation
+- [ ] Build Reservoir tanks to lower maintenance time
+- [ ] Build Reservoir tanks to prevent algae growth
+- [ ] Build Reservoir tanks to reduce water usage
+- [ ] Build Reservoir tanks to stabilize pH levels
+- [ ] Build Rockwool cubes for automated operation
+- [ ] Build Rockwool cubes for high-density urban farming
+- [ ] Build Rockwool cubes for maximum yield
+- [ ] Build Rockwool cubes for off-grid capability
+- [ ] Build Rockwool cubes for power efficiency
+- [ ] Build Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Build Rockwool cubes for the Greenhouse build
+- [ ] Build Rockwool cubes to improve root oxygenation
+- [ ] Build Rockwool cubes to lower maintenance time
+- [ ] Build Rockwool cubes to prevent algae growth
+- [ ] Build Rockwool cubes to reduce water usage
+- [ ] Build Rockwool cubes to stabilize pH levels
+- [ ] Build Timer relays for automated operation
+- [ ] Build Timer relays for high-density urban farming
+- [ ] Build Timer relays for maximum yield
+- [ ] Build Timer relays for off-grid capability
+- [ ] Build Timer relays for power efficiency
+- [ ] Build Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Build Timer relays for the Greenhouse build
+- [ ] Build Timer relays to improve root oxygenation
+- [ ] Build Timer relays to lower maintenance time
+- [ ] Build Timer relays to prevent algae growth
+- [ ] Build Timer relays to reduce water usage
+- [ ] Build Timer relays to stabilize pH levels
+- [ ] Build Vertical Towers for automated operation
+- [ ] Build Vertical Towers for high-density urban farming
+- [ ] Build Vertical Towers for maximum yield
+- [ ] Build Vertical Towers for off-grid capability
+- [ ] Build Vertical Towers for power efficiency
+- [ ] Build Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Build Vertical Towers for the Greenhouse build
+- [ ] Build Vertical Towers to improve root oxygenation
+- [ ] Build Vertical Towers to lower maintenance time
+- [ ] Build Vertical Towers to prevent algae growth
+- [ ] Build Vertical Towers to reduce water usage
+- [ ] Build Vertical Towers to stabilize pH levels
+- [ ] Build Water pumps for automated operation
+- [ ] Build Water pumps for high-density urban farming
+- [ ] Build Water pumps for maximum yield
+- [ ] Build Water pumps for off-grid capability
+- [ ] Build Water pumps for power efficiency
+- [ ] Build Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Build Water pumps for the Greenhouse build
+- [ ] Build Water pumps to improve root oxygenation
+- [ ] Build Water pumps to lower maintenance time
+- [ ] Build Water pumps to prevent algae growth
+- [ ] Build Water pumps to reduce water usage
+- [ ] Build Water pumps to stabilize pH levels
+- [ ] Build Water temperature sensors for automated operation
+- [ ] Build Water temperature sensors for high-density urban farming
+- [ ] Build Water temperature sensors for maximum yield
+- [ ] Build Water temperature sensors for off-grid capability
+- [ ] Build Water temperature sensors for power efficiency
+- [ ] Build Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Build Water temperature sensors for the Greenhouse build
+- [ ] Build Water temperature sensors to improve root oxygenation
+- [ ] Build Water temperature sensors to lower maintenance time
+- [ ] Build Water temperature sensors to prevent algae growth
+- [ ] Build Water temperature sensors to reduce water usage
+- [ ] Build Water temperature sensors to stabilize pH levels
+- [ ] Build ZipGrow style setup for automated operation
+- [ ] Build ZipGrow style setup for high-density urban farming
+- [ ] Build ZipGrow style setup for maximum yield
+- [ ] Build ZipGrow style setup for off-grid capability
+- [ ] Build ZipGrow style setup for power efficiency
+- [ ] Build ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Build ZipGrow style setup for the Greenhouse build
+- [ ] Build ZipGrow style setup to improve root oxygenation
+- [ ] Build ZipGrow style setup to lower maintenance time
+- [ ] Build ZipGrow style setup to prevent algae growth
+- [ ] Build ZipGrow style setup to reduce water usage
+- [ ] Build ZipGrow style setup to stabilize pH levels
+- [ ] Design A-Frame system for automated operation
+- [ ] Design A-Frame system for high-density urban farming
+- [ ] Design A-Frame system for maximum yield
+- [ ] Design A-Frame system for off-grid capability
+- [ ] Design A-Frame system for power efficiency
+- [ ] Design A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Design A-Frame system for the Greenhouse build
+- [ ] Design A-Frame system to improve root oxygenation
+- [ ] Design A-Frame system to lower maintenance time
+- [ ] Design A-Frame system to prevent algae growth
+- [ ] Design A-Frame system to reduce water usage
+- [ ] Design A-Frame system to stabilize pH levels
+- [ ] Design Aeroponics misting nozzles for automated operation
+- [ ] Design Aeroponics misting nozzles for high-density urban farming
+- [ ] Design Aeroponics misting nozzles for maximum yield
+- [ ] Design Aeroponics misting nozzles for off-grid capability
+- [ ] Design Aeroponics misting nozzles for power efficiency
+- [ ] Design Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Design Aeroponics misting nozzles for the Greenhouse build
+- [ ] Design Aeroponics misting nozzles to improve root oxygenation
+- [ ] Design Aeroponics misting nozzles to lower maintenance time
+- [ ] Design Aeroponics misting nozzles to prevent algae growth
+- [ ] Design Aeroponics misting nozzles to reduce water usage
+- [ ] Design Aeroponics misting nozzles to stabilize pH levels
+- [ ] Design Air pumps for automated operation
+- [ ] Design Air pumps for high-density urban farming
+- [ ] Design Air pumps for maximum yield
+- [ ] Design Air pumps for off-grid capability
+- [ ] Design Air pumps for power efficiency
+- [ ] Design Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Design Air pumps for the Greenhouse build
+- [ ] Design Air pumps to improve root oxygenation
+- [ ] Design Air pumps to lower maintenance time
+- [ ] Design Air pumps to prevent algae growth
+- [ ] Design Air pumps to reduce water usage
+- [ ] Design Air pumps to stabilize pH levels
+- [ ] Design Airstones for automated operation
+- [ ] Design Airstones for high-density urban farming
+- [ ] Design Airstones for maximum yield
+- [ ] Design Airstones for off-grid capability
+- [ ] Design Airstones for power efficiency
+- [ ] Design Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Design Airstones for the Greenhouse build
+- [ ] Design Airstones to improve root oxygenation
+- [ ] Design Airstones to lower maintenance time
+- [ ] Design Airstones to prevent algae growth
+- [ ] Design Airstones to reduce water usage
+- [ ] Design Airstones to stabilize pH levels
+- [ ] Design Arduino pH sensors for automated operation
+- [ ] Design Arduino pH sensors for high-density urban farming
+- [ ] Design Arduino pH sensors for maximum yield
+- [ ] Design Arduino pH sensors for off-grid capability
+- [ ] Design Arduino pH sensors for power efficiency
+- [ ] Design Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Design Arduino pH sensors for the Greenhouse build
+- [ ] Design Arduino pH sensors to improve root oxygenation
+- [ ] Design Arduino pH sensors to lower maintenance time
+- [ ] Design Arduino pH sensors to prevent algae growth
+- [ ] Design Arduino pH sensors to reduce water usage
+- [ ] Design Arduino pH sensors to stabilize pH levels
+- [ ] Design Clay pebbles (Hydroton) for automated operation
+- [ ] Design Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Design Clay pebbles (Hydroton) for maximum yield
+- [ ] Design Clay pebbles (Hydroton) for off-grid capability
+- [ ] Design Clay pebbles (Hydroton) for power efficiency
+- [ ] Design Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Design Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Design Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Design Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Design Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Design Clay pebbles (Hydroton) to reduce water usage
+- [ ] Design Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Design Drip irrigation emitters for automated operation
+- [ ] Design Drip irrigation emitters for high-density urban farming
+- [ ] Design Drip irrigation emitters for maximum yield
+- [ ] Design Drip irrigation emitters for off-grid capability
+- [ ] Design Drip irrigation emitters for power efficiency
+- [ ] Design Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Design Drip irrigation emitters for the Greenhouse build
+- [ ] Design Drip irrigation emitters to improve root oxygenation
+- [ ] Design Drip irrigation emitters to lower maintenance time
+- [ ] Design Drip irrigation emitters to prevent algae growth
+- [ ] Design Drip irrigation emitters to reduce water usage
+- [ ] Design Drip irrigation emitters to stabilize pH levels
+- [ ] Design Fogponics ultrasonic foggers for automated operation
+- [ ] Design Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Design Fogponics ultrasonic foggers for maximum yield
+- [ ] Design Fogponics ultrasonic foggers for off-grid capability
+- [ ] Design Fogponics ultrasonic foggers for power efficiency
+- [ ] Design Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Design Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Design Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Design Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Design Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Design Fogponics ultrasonic foggers to reduce water usage
+- [ ] Design Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Design LED Grow Lights for automated operation
+- [ ] Design LED Grow Lights for high-density urban farming
+- [ ] Design LED Grow Lights for maximum yield
+- [ ] Design LED Grow Lights for off-grid capability
+- [ ] Design LED Grow Lights for power efficiency
+- [ ] Design LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Design LED Grow Lights for the Greenhouse build
+- [ ] Design LED Grow Lights to improve root oxygenation
+- [ ] Design LED Grow Lights to lower maintenance time
+- [ ] Design LED Grow Lights to prevent algae growth
+- [ ] Design LED Grow Lights to reduce water usage
+- [ ] Design LED Grow Lights to stabilize pH levels
+- [ ] Design Net Pots for automated operation
+- [ ] Design Net Pots for high-density urban farming
+- [ ] Design Net Pots for maximum yield
+- [ ] Design Net Pots for off-grid capability
+- [ ] Design Net Pots for power efficiency
+- [ ] Design Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Design Net Pots for the Greenhouse build
+- [ ] Design Net Pots to improve root oxygenation
+- [ ] Design Net Pots to lower maintenance time
+- [ ] Design Net Pots to prevent algae growth
+- [ ] Design Net Pots to reduce water usage
+- [ ] Design Net Pots to stabilize pH levels
+- [ ] Design PVC Window Farms for automated operation
+- [ ] Design PVC Window Farms for high-density urban farming
+- [ ] Design PVC Window Farms for maximum yield
+- [ ] Design PVC Window Farms for off-grid capability
+- [ ] Design PVC Window Farms for power efficiency
+- [ ] Design PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Design PVC Window Farms for the Greenhouse build
+- [ ] Design PVC Window Farms to improve root oxygenation
+- [ ] Design PVC Window Farms to lower maintenance time
+- [ ] Design PVC Window Farms to prevent algae growth
+- [ ] Design PVC Window Farms to reduce water usage
+- [ ] Design PVC Window Farms to stabilize pH levels
+- [ ] Design Pool Noodle grow medium for automated operation
+- [ ] Design Pool Noodle grow medium for high-density urban farming
+- [ ] Design Pool Noodle grow medium for maximum yield
+- [ ] Design Pool Noodle grow medium for off-grid capability
+- [ ] Design Pool Noodle grow medium for power efficiency
+- [ ] Design Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Design Pool Noodle grow medium for the Greenhouse build
+- [ ] Design Pool Noodle grow medium to improve root oxygenation
+- [ ] Design Pool Noodle grow medium to lower maintenance time
+- [ ] Design Pool Noodle grow medium to prevent algae growth
+- [ ] Design Pool Noodle grow medium to reduce water usage
+- [ ] Design Pool Noodle grow medium to stabilize pH levels
+- [ ] Design Raspberry Pi nutrient dosers for automated operation
+- [ ] Design Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Design Raspberry Pi nutrient dosers for maximum yield
+- [ ] Design Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Design Raspberry Pi nutrient dosers for power efficiency
+- [ ] Design Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Design Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Design Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Design Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Design Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Design Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Design Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Design Reservoir tanks for automated operation
+- [ ] Design Reservoir tanks for high-density urban farming
+- [ ] Design Reservoir tanks for maximum yield
+- [ ] Design Reservoir tanks for off-grid capability
+- [ ] Design Reservoir tanks for power efficiency
+- [ ] Design Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Design Reservoir tanks for the Greenhouse build
+- [ ] Design Reservoir tanks to improve root oxygenation
+- [ ] Design Reservoir tanks to lower maintenance time
+- [ ] Design Reservoir tanks to prevent algae growth
+- [ ] Design Reservoir tanks to reduce water usage
+- [ ] Design Reservoir tanks to stabilize pH levels
+- [ ] Design Rockwool cubes for automated operation
+- [ ] Design Rockwool cubes for high-density urban farming
+- [ ] Design Rockwool cubes for maximum yield
+- [ ] Design Rockwool cubes for off-grid capability
+- [ ] Design Rockwool cubes for power efficiency
+- [ ] Design Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Design Rockwool cubes for the Greenhouse build
+- [ ] Design Rockwool cubes to improve root oxygenation
+- [ ] Design Rockwool cubes to lower maintenance time
+- [ ] Design Rockwool cubes to prevent algae growth
+- [ ] Design Rockwool cubes to reduce water usage
+- [ ] Design Rockwool cubes to stabilize pH levels
+- [ ] Design Timer relays for automated operation
+- [ ] Design Timer relays for high-density urban farming
+- [ ] Design Timer relays for maximum yield
+- [ ] Design Timer relays for off-grid capability
+- [ ] Design Timer relays for power efficiency
+- [ ] Design Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Design Timer relays for the Greenhouse build
+- [ ] Design Timer relays to improve root oxygenation
+- [ ] Design Timer relays to lower maintenance time
+- [ ] Design Timer relays to prevent algae growth
+- [ ] Design Timer relays to reduce water usage
+- [ ] Design Timer relays to stabilize pH levels
+- [ ] Design Vertical Towers for automated operation
+- [ ] Design Vertical Towers for high-density urban farming
+- [ ] Design Vertical Towers for maximum yield
+- [ ] Design Vertical Towers for off-grid capability
+- [ ] Design Vertical Towers for power efficiency
+- [ ] Design Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Design Vertical Towers for the Greenhouse build
+- [ ] Design Vertical Towers to improve root oxygenation
+- [ ] Design Vertical Towers to lower maintenance time
+- [ ] Design Vertical Towers to prevent algae growth
+- [ ] Design Vertical Towers to reduce water usage
+- [ ] Design Vertical Towers to stabilize pH levels
+- [ ] Design Water pumps for automated operation
+- [ ] Design Water pumps for high-density urban farming
+- [ ] Design Water pumps for maximum yield
+- [ ] Design Water pumps for off-grid capability
+- [ ] Design Water pumps for power efficiency
+- [ ] Design Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Design Water pumps for the Greenhouse build
+- [ ] Design Water pumps to improve root oxygenation
+- [ ] Design Water pumps to lower maintenance time
+- [ ] Design Water pumps to prevent algae growth
+- [ ] Design Water pumps to reduce water usage
+- [ ] Design Water pumps to stabilize pH levels
+- [ ] Design Water temperature sensors for automated operation
+- [ ] Design Water temperature sensors for high-density urban farming
+- [ ] Design Water temperature sensors for maximum yield
+- [ ] Design Water temperature sensors for off-grid capability
+- [ ] Design Water temperature sensors for power efficiency
+- [ ] Design Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Design Water temperature sensors for the Greenhouse build
+- [ ] Design Water temperature sensors to improve root oxygenation
+- [ ] Design Water temperature sensors to lower maintenance time
+- [ ] Design Water temperature sensors to prevent algae growth
+- [ ] Design Water temperature sensors to reduce water usage
+- [ ] Design Water temperature sensors to stabilize pH levels
+- [ ] Design ZipGrow style setup for automated operation
+- [ ] Design ZipGrow style setup for high-density urban farming
+- [ ] Design ZipGrow style setup for maximum yield
+- [ ] Design ZipGrow style setup for off-grid capability
+- [ ] Design ZipGrow style setup for power efficiency
+- [ ] Design ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Design ZipGrow style setup for the Greenhouse build
+- [ ] Design ZipGrow style setup to improve root oxygenation
+- [ ] Design ZipGrow style setup to lower maintenance time
+- [ ] Design ZipGrow style setup to prevent algae growth
+- [ ] Design ZipGrow style setup to reduce water usage
+- [ ] Design ZipGrow style setup to stabilize pH levels
+- [ ] Document A-Frame system for automated operation
+- [ ] Document A-Frame system for high-density urban farming
+- [ ] Document A-Frame system for maximum yield
+- [ ] Document A-Frame system for off-grid capability
+- [ ] Document A-Frame system for power efficiency
+- [ ] Document A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Document A-Frame system for the Greenhouse build
+- [ ] Document A-Frame system to improve root oxygenation
+- [ ] Document A-Frame system to lower maintenance time
+- [ ] Document A-Frame system to prevent algae growth
+- [ ] Document A-Frame system to reduce water usage
+- [ ] Document A-Frame system to stabilize pH levels
+- [ ] Document Aeroponics misting nozzles for automated operation
+- [ ] Document Aeroponics misting nozzles for high-density urban farming
+- [ ] Document Aeroponics misting nozzles for maximum yield
+- [ ] Document Aeroponics misting nozzles for off-grid capability
+- [ ] Document Aeroponics misting nozzles for power efficiency
+- [ ] Document Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Document Aeroponics misting nozzles for the Greenhouse build
+- [ ] Document Aeroponics misting nozzles to improve root oxygenation
+- [ ] Document Aeroponics misting nozzles to lower maintenance time
+- [ ] Document Aeroponics misting nozzles to prevent algae growth
+- [ ] Document Aeroponics misting nozzles to reduce water usage
+- [ ] Document Aeroponics misting nozzles to stabilize pH levels
+- [ ] Document Air pumps for automated operation
+- [ ] Document Air pumps for high-density urban farming
+- [ ] Document Air pumps for maximum yield
+- [ ] Document Air pumps for off-grid capability
+- [ ] Document Air pumps for power efficiency
+- [ ] Document Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Document Air pumps for the Greenhouse build
+- [ ] Document Air pumps to improve root oxygenation
+- [ ] Document Air pumps to lower maintenance time
+- [ ] Document Air pumps to prevent algae growth
+- [ ] Document Air pumps to reduce water usage
+- [ ] Document Air pumps to stabilize pH levels
+- [ ] Document Airstones for automated operation
+- [ ] Document Airstones for high-density urban farming
+- [ ] Document Airstones for maximum yield
+- [ ] Document Airstones for off-grid capability
+- [ ] Document Airstones for power efficiency
+- [ ] Document Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Document Airstones for the Greenhouse build
+- [ ] Document Airstones to improve root oxygenation
+- [ ] Document Airstones to lower maintenance time
+- [ ] Document Airstones to prevent algae growth
+- [ ] Document Airstones to reduce water usage
+- [ ] Document Airstones to stabilize pH levels
+- [ ] Document Arduino pH sensors for automated operation
+- [ ] Document Arduino pH sensors for high-density urban farming
+- [ ] Document Arduino pH sensors for maximum yield
+- [ ] Document Arduino pH sensors for off-grid capability
+- [ ] Document Arduino pH sensors for power efficiency
+- [ ] Document Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Document Arduino pH sensors for the Greenhouse build
+- [ ] Document Arduino pH sensors to improve root oxygenation
+- [ ] Document Arduino pH sensors to lower maintenance time
+- [ ] Document Arduino pH sensors to prevent algae growth
+- [ ] Document Arduino pH sensors to reduce water usage
+- [ ] Document Arduino pH sensors to stabilize pH levels
+- [ ] Document Clay pebbles (Hydroton) for automated operation
+- [ ] Document Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Document Clay pebbles (Hydroton) for maximum yield
+- [ ] Document Clay pebbles (Hydroton) for off-grid capability
+- [ ] Document Clay pebbles (Hydroton) for power efficiency
+- [ ] Document Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Document Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Document Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Document Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Document Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Document Clay pebbles (Hydroton) to reduce water usage
+- [ ] Document Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Document Drip irrigation emitters for automated operation
+- [ ] Document Drip irrigation emitters for high-density urban farming
+- [ ] Document Drip irrigation emitters for maximum yield
+- [ ] Document Drip irrigation emitters for off-grid capability
+- [ ] Document Drip irrigation emitters for power efficiency
+- [ ] Document Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Document Drip irrigation emitters for the Greenhouse build
+- [ ] Document Drip irrigation emitters to improve root oxygenation
+- [ ] Document Drip irrigation emitters to lower maintenance time
+- [ ] Document Drip irrigation emitters to prevent algae growth
+- [ ] Document Drip irrigation emitters to reduce water usage
+- [ ] Document Drip irrigation emitters to stabilize pH levels
+- [ ] Document Fogponics ultrasonic foggers for automated operation
+- [ ] Document Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Document Fogponics ultrasonic foggers for maximum yield
+- [ ] Document Fogponics ultrasonic foggers for off-grid capability
+- [ ] Document Fogponics ultrasonic foggers for power efficiency
+- [ ] Document Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Document Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Document Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Document Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Document Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Document Fogponics ultrasonic foggers to reduce water usage
+- [ ] Document Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Document LED Grow Lights for automated operation
+- [ ] Document LED Grow Lights for high-density urban farming
+- [ ] Document LED Grow Lights for maximum yield
+- [ ] Document LED Grow Lights for off-grid capability
+- [ ] Document LED Grow Lights for power efficiency
+- [ ] Document LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Document LED Grow Lights for the Greenhouse build
+- [ ] Document LED Grow Lights to improve root oxygenation
+- [ ] Document LED Grow Lights to lower maintenance time
+- [ ] Document LED Grow Lights to prevent algae growth
+- [ ] Document LED Grow Lights to reduce water usage
+- [ ] Document LED Grow Lights to stabilize pH levels
+- [ ] Document Net Pots for automated operation
+- [ ] Document Net Pots for high-density urban farming
+- [ ] Document Net Pots for maximum yield
+- [ ] Document Net Pots for off-grid capability
+- [ ] Document Net Pots for power efficiency
+- [ ] Document Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Document Net Pots for the Greenhouse build
+- [ ] Document Net Pots to improve root oxygenation
+- [ ] Document Net Pots to lower maintenance time
+- [ ] Document Net Pots to prevent algae growth
+- [ ] Document Net Pots to reduce water usage
+- [ ] Document Net Pots to stabilize pH levels
+- [ ] Document PVC Window Farms for automated operation
+- [ ] Document PVC Window Farms for high-density urban farming
+- [ ] Document PVC Window Farms for maximum yield
+- [ ] Document PVC Window Farms for off-grid capability
+- [ ] Document PVC Window Farms for power efficiency
+- [ ] Document PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Document PVC Window Farms for the Greenhouse build
+- [ ] Document PVC Window Farms to improve root oxygenation
+- [ ] Document PVC Window Farms to lower maintenance time
+- [ ] Document PVC Window Farms to prevent algae growth
+- [ ] Document PVC Window Farms to reduce water usage
+- [ ] Document PVC Window Farms to stabilize pH levels
+- [ ] Document Pool Noodle grow medium for automated operation
+- [ ] Document Pool Noodle grow medium for high-density urban farming
+- [ ] Document Pool Noodle grow medium for maximum yield
+- [ ] Document Pool Noodle grow medium for off-grid capability
+- [ ] Document Pool Noodle grow medium for power efficiency
+- [ ] Document Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Document Pool Noodle grow medium for the Greenhouse build
+- [ ] Document Pool Noodle grow medium to improve root oxygenation
+- [ ] Document Pool Noodle grow medium to lower maintenance time
+- [ ] Document Pool Noodle grow medium to prevent algae growth
+- [ ] Document Pool Noodle grow medium to reduce water usage
+- [ ] Document Pool Noodle grow medium to stabilize pH levels
+- [ ] Document Raspberry Pi nutrient dosers for automated operation
+- [ ] Document Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Document Raspberry Pi nutrient dosers for maximum yield
+- [ ] Document Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Document Raspberry Pi nutrient dosers for power efficiency
+- [ ] Document Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Document Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Document Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Document Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Document Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Document Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Document Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Document Reservoir tanks for automated operation
+- [ ] Document Reservoir tanks for high-density urban farming
+- [ ] Document Reservoir tanks for maximum yield
+- [ ] Document Reservoir tanks for off-grid capability
+- [ ] Document Reservoir tanks for power efficiency
+- [ ] Document Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Document Reservoir tanks for the Greenhouse build
+- [ ] Document Reservoir tanks to improve root oxygenation
+- [ ] Document Reservoir tanks to lower maintenance time
+- [ ] Document Reservoir tanks to prevent algae growth
+- [ ] Document Reservoir tanks to reduce water usage
+- [ ] Document Reservoir tanks to stabilize pH levels
+- [ ] Document Rockwool cubes for automated operation
+- [ ] Document Rockwool cubes for high-density urban farming
+- [ ] Document Rockwool cubes for maximum yield
+- [ ] Document Rockwool cubes for off-grid capability
+- [ ] Document Rockwool cubes for power efficiency
+- [ ] Document Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Document Rockwool cubes for the Greenhouse build
+- [ ] Document Rockwool cubes to improve root oxygenation
+- [ ] Document Rockwool cubes to lower maintenance time
+- [ ] Document Rockwool cubes to prevent algae growth
+- [ ] Document Rockwool cubes to reduce water usage
+- [ ] Document Rockwool cubes to stabilize pH levels
+- [ ] Document Timer relays for automated operation
+- [ ] Document Timer relays for high-density urban farming
+- [ ] Document Timer relays for maximum yield
+- [ ] Document Timer relays for off-grid capability
+- [ ] Document Timer relays for power efficiency
+- [ ] Document Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Document Timer relays for the Greenhouse build
+- [ ] Document Timer relays to improve root oxygenation
+- [ ] Document Timer relays to lower maintenance time
+- [ ] Document Timer relays to prevent algae growth
+- [ ] Document Timer relays to reduce water usage
+- [ ] Document Timer relays to stabilize pH levels
+- [ ] Document Vertical Towers for automated operation
+- [ ] Document Vertical Towers for high-density urban farming
+- [ ] Document Vertical Towers for maximum yield
+- [ ] Document Vertical Towers for off-grid capability
+- [ ] Document Vertical Towers for power efficiency
+- [ ] Document Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Document Vertical Towers for the Greenhouse build
+- [ ] Document Vertical Towers to improve root oxygenation
+- [ ] Document Vertical Towers to lower maintenance time
+- [ ] Document Vertical Towers to prevent algae growth
+- [ ] Document Vertical Towers to reduce water usage
+- [ ] Document Vertical Towers to stabilize pH levels
+- [ ] Document Water pumps for automated operation
+- [ ] Document Water pumps for high-density urban farming
+- [ ] Document Water pumps for maximum yield
+- [ ] Document Water pumps for off-grid capability
+- [ ] Document Water pumps for power efficiency
+- [ ] Document Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Document Water pumps for the Greenhouse build
+- [ ] Document Water pumps to improve root oxygenation
+- [ ] Document Water pumps to lower maintenance time
+- [ ] Document Water pumps to prevent algae growth
+- [ ] Document Water pumps to reduce water usage
+- [ ] Document Water pumps to stabilize pH levels
+- [ ] Document Water temperature sensors for automated operation
+- [ ] Document Water temperature sensors for high-density urban farming
+- [ ] Document Water temperature sensors for maximum yield
+- [ ] Document Water temperature sensors for off-grid capability
+- [ ] Document Water temperature sensors for power efficiency
+- [ ] Document Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Document Water temperature sensors for the Greenhouse build
+- [ ] Document Water temperature sensors to improve root oxygenation
+- [ ] Document Water temperature sensors to lower maintenance time
+- [ ] Document Water temperature sensors to prevent algae growth
+- [ ] Document Water temperature sensors to reduce water usage
+- [ ] Document Water temperature sensors to stabilize pH levels
+- [ ] Document ZipGrow style setup for automated operation
+- [ ] Document ZipGrow style setup for high-density urban farming
+- [ ] Document ZipGrow style setup for maximum yield
+- [ ] Document ZipGrow style setup for off-grid capability
+- [ ] Document ZipGrow style setup for power efficiency
+- [ ] Document ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Document ZipGrow style setup for the Greenhouse build
+- [ ] Document ZipGrow style setup to improve root oxygenation
+- [ ] Document ZipGrow style setup to lower maintenance time
+- [ ] Document ZipGrow style setup to prevent algae growth
+- [ ] Document ZipGrow style setup to reduce water usage
+- [ ] Document ZipGrow style setup to stabilize pH levels
+- [ ] Evaluate A-Frame system for automated operation
+- [ ] Evaluate A-Frame system for high-density urban farming
+- [ ] Evaluate A-Frame system for maximum yield
+- [ ] Evaluate A-Frame system for off-grid capability
+- [ ] Evaluate A-Frame system for power efficiency
+- [ ] Evaluate A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate A-Frame system for the Greenhouse build
+- [ ] Evaluate A-Frame system to improve root oxygenation
+- [ ] Evaluate A-Frame system to lower maintenance time
+- [ ] Evaluate A-Frame system to prevent algae growth
+- [ ] Evaluate A-Frame system to reduce water usage
+- [ ] Evaluate A-Frame system to stabilize pH levels
+- [ ] Evaluate Aeroponics misting nozzles for automated operation
+- [ ] Evaluate Aeroponics misting nozzles for high-density urban farming
+- [ ] Evaluate Aeroponics misting nozzles for maximum yield
+- [ ] Evaluate Aeroponics misting nozzles for off-grid capability
+- [ ] Evaluate Aeroponics misting nozzles for power efficiency
+- [ ] Evaluate Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Aeroponics misting nozzles for the Greenhouse build
+- [ ] Evaluate Aeroponics misting nozzles to improve root oxygenation
+- [ ] Evaluate Aeroponics misting nozzles to lower maintenance time
+- [ ] Evaluate Aeroponics misting nozzles to prevent algae growth
+- [ ] Evaluate Aeroponics misting nozzles to reduce water usage
+- [ ] Evaluate Aeroponics misting nozzles to stabilize pH levels
+- [ ] Evaluate Air pumps for automated operation
+- [ ] Evaluate Air pumps for high-density urban farming
+- [ ] Evaluate Air pumps for maximum yield
+- [ ] Evaluate Air pumps for off-grid capability
+- [ ] Evaluate Air pumps for power efficiency
+- [ ] Evaluate Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Air pumps for the Greenhouse build
+- [ ] Evaluate Air pumps to improve root oxygenation
+- [ ] Evaluate Air pumps to lower maintenance time
+- [ ] Evaluate Air pumps to prevent algae growth
+- [ ] Evaluate Air pumps to reduce water usage
+- [ ] Evaluate Air pumps to stabilize pH levels
+- [ ] Evaluate Airstones for automated operation
+- [ ] Evaluate Airstones for high-density urban farming
+- [ ] Evaluate Airstones for maximum yield
+- [ ] Evaluate Airstones for off-grid capability
+- [ ] Evaluate Airstones for power efficiency
+- [ ] Evaluate Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Airstones for the Greenhouse build
+- [ ] Evaluate Airstones to improve root oxygenation
+- [ ] Evaluate Airstones to lower maintenance time
+- [ ] Evaluate Airstones to prevent algae growth
+- [ ] Evaluate Airstones to reduce water usage
+- [ ] Evaluate Airstones to stabilize pH levels
+- [ ] Evaluate Arduino pH sensors for automated operation
+- [ ] Evaluate Arduino pH sensors for high-density urban farming
+- [ ] Evaluate Arduino pH sensors for maximum yield
+- [ ] Evaluate Arduino pH sensors for off-grid capability
+- [ ] Evaluate Arduino pH sensors for power efficiency
+- [ ] Evaluate Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Arduino pH sensors for the Greenhouse build
+- [ ] Evaluate Arduino pH sensors to improve root oxygenation
+- [ ] Evaluate Arduino pH sensors to lower maintenance time
+- [ ] Evaluate Arduino pH sensors to prevent algae growth
+- [ ] Evaluate Arduino pH sensors to reduce water usage
+- [ ] Evaluate Arduino pH sensors to stabilize pH levels
+- [ ] Evaluate Clay pebbles (Hydroton) for automated operation
+- [ ] Evaluate Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Evaluate Clay pebbles (Hydroton) for maximum yield
+- [ ] Evaluate Clay pebbles (Hydroton) for off-grid capability
+- [ ] Evaluate Clay pebbles (Hydroton) for power efficiency
+- [ ] Evaluate Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Evaluate Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Evaluate Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Evaluate Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Evaluate Clay pebbles (Hydroton) to reduce water usage
+- [ ] Evaluate Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Evaluate Drip irrigation emitters for automated operation
+- [ ] Evaluate Drip irrigation emitters for high-density urban farming
+- [ ] Evaluate Drip irrigation emitters for maximum yield
+- [ ] Evaluate Drip irrigation emitters for off-grid capability
+- [ ] Evaluate Drip irrigation emitters for power efficiency
+- [ ] Evaluate Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Drip irrigation emitters for the Greenhouse build
+- [ ] Evaluate Drip irrigation emitters to improve root oxygenation
+- [ ] Evaluate Drip irrigation emitters to lower maintenance time
+- [ ] Evaluate Drip irrigation emitters to prevent algae growth
+- [ ] Evaluate Drip irrigation emitters to reduce water usage
+- [ ] Evaluate Drip irrigation emitters to stabilize pH levels
+- [ ] Evaluate Fogponics ultrasonic foggers for automated operation
+- [ ] Evaluate Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Evaluate Fogponics ultrasonic foggers for maximum yield
+- [ ] Evaluate Fogponics ultrasonic foggers for off-grid capability
+- [ ] Evaluate Fogponics ultrasonic foggers for power efficiency
+- [ ] Evaluate Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Evaluate Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Evaluate Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Evaluate Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Evaluate Fogponics ultrasonic foggers to reduce water usage
+- [ ] Evaluate Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Evaluate LED Grow Lights for automated operation
+- [ ] Evaluate LED Grow Lights for high-density urban farming
+- [ ] Evaluate LED Grow Lights for maximum yield
+- [ ] Evaluate LED Grow Lights for off-grid capability
+- [ ] Evaluate LED Grow Lights for power efficiency
+- [ ] Evaluate LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate LED Grow Lights for the Greenhouse build
+- [ ] Evaluate LED Grow Lights to improve root oxygenation
+- [ ] Evaluate LED Grow Lights to lower maintenance time
+- [ ] Evaluate LED Grow Lights to prevent algae growth
+- [ ] Evaluate LED Grow Lights to reduce water usage
+- [ ] Evaluate LED Grow Lights to stabilize pH levels
+- [ ] Evaluate Net Pots for automated operation
+- [ ] Evaluate Net Pots for high-density urban farming
+- [ ] Evaluate Net Pots for maximum yield
+- [ ] Evaluate Net Pots for off-grid capability
+- [ ] Evaluate Net Pots for power efficiency
+- [ ] Evaluate Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Net Pots for the Greenhouse build
+- [ ] Evaluate Net Pots to improve root oxygenation
+- [ ] Evaluate Net Pots to lower maintenance time
+- [ ] Evaluate Net Pots to prevent algae growth
+- [ ] Evaluate Net Pots to reduce water usage
+- [ ] Evaluate Net Pots to stabilize pH levels
+- [ ] Evaluate PVC Window Farms for automated operation
+- [ ] Evaluate PVC Window Farms for high-density urban farming
+- [ ] Evaluate PVC Window Farms for maximum yield
+- [ ] Evaluate PVC Window Farms for off-grid capability
+- [ ] Evaluate PVC Window Farms for power efficiency
+- [ ] Evaluate PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate PVC Window Farms for the Greenhouse build
+- [ ] Evaluate PVC Window Farms to improve root oxygenation
+- [ ] Evaluate PVC Window Farms to lower maintenance time
+- [ ] Evaluate PVC Window Farms to prevent algae growth
+- [ ] Evaluate PVC Window Farms to reduce water usage
+- [ ] Evaluate PVC Window Farms to stabilize pH levels
+- [ ] Evaluate Pool Noodle grow medium for automated operation
+- [ ] Evaluate Pool Noodle grow medium for high-density urban farming
+- [ ] Evaluate Pool Noodle grow medium for maximum yield
+- [ ] Evaluate Pool Noodle grow medium for off-grid capability
+- [ ] Evaluate Pool Noodle grow medium for power efficiency
+- [ ] Evaluate Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Pool Noodle grow medium for the Greenhouse build
+- [ ] Evaluate Pool Noodle grow medium to improve root oxygenation
+- [ ] Evaluate Pool Noodle grow medium to lower maintenance time
+- [ ] Evaluate Pool Noodle grow medium to prevent algae growth
+- [ ] Evaluate Pool Noodle grow medium to reduce water usage
+- [ ] Evaluate Pool Noodle grow medium to stabilize pH levels
+- [ ] Evaluate Raspberry Pi nutrient dosers for automated operation
+- [ ] Evaluate Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Evaluate Raspberry Pi nutrient dosers for maximum yield
+- [ ] Evaluate Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Evaluate Raspberry Pi nutrient dosers for power efficiency
+- [ ] Evaluate Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Evaluate Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Evaluate Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Evaluate Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Evaluate Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Evaluate Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Evaluate Reservoir tanks for automated operation
+- [ ] Evaluate Reservoir tanks for high-density urban farming
+- [ ] Evaluate Reservoir tanks for maximum yield
+- [ ] Evaluate Reservoir tanks for off-grid capability
+- [ ] Evaluate Reservoir tanks for power efficiency
+- [ ] Evaluate Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Reservoir tanks for the Greenhouse build
+- [ ] Evaluate Reservoir tanks to improve root oxygenation
+- [ ] Evaluate Reservoir tanks to lower maintenance time
+- [ ] Evaluate Reservoir tanks to prevent algae growth
+- [ ] Evaluate Reservoir tanks to reduce water usage
+- [ ] Evaluate Reservoir tanks to stabilize pH levels
+- [ ] Evaluate Rockwool cubes for automated operation
+- [ ] Evaluate Rockwool cubes for high-density urban farming
+- [ ] Evaluate Rockwool cubes for maximum yield
+- [ ] Evaluate Rockwool cubes for off-grid capability
+- [ ] Evaluate Rockwool cubes for power efficiency
+- [ ] Evaluate Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Rockwool cubes for the Greenhouse build
+- [ ] Evaluate Rockwool cubes to improve root oxygenation
+- [ ] Evaluate Rockwool cubes to lower maintenance time
+- [ ] Evaluate Rockwool cubes to prevent algae growth
+- [ ] Evaluate Rockwool cubes to reduce water usage
+- [ ] Evaluate Rockwool cubes to stabilize pH levels
+- [ ] Evaluate Timer relays for automated operation
+- [ ] Evaluate Timer relays for high-density urban farming
+- [ ] Evaluate Timer relays for maximum yield
+- [ ] Evaluate Timer relays for off-grid capability
+- [ ] Evaluate Timer relays for power efficiency
+- [ ] Evaluate Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Timer relays for the Greenhouse build
+- [ ] Evaluate Timer relays to improve root oxygenation
+- [ ] Evaluate Timer relays to lower maintenance time
+- [ ] Evaluate Timer relays to prevent algae growth
+- [ ] Evaluate Timer relays to reduce water usage
+- [ ] Evaluate Timer relays to stabilize pH levels
+- [ ] Evaluate Vertical Towers for automated operation
+- [ ] Evaluate Vertical Towers for high-density urban farming
+- [ ] Evaluate Vertical Towers for maximum yield
+- [ ] Evaluate Vertical Towers for off-grid capability
+- [ ] Evaluate Vertical Towers for power efficiency
+- [ ] Evaluate Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Vertical Towers for the Greenhouse build
+- [ ] Evaluate Vertical Towers to improve root oxygenation
+- [ ] Evaluate Vertical Towers to lower maintenance time
+- [ ] Evaluate Vertical Towers to prevent algae growth
+- [ ] Evaluate Vertical Towers to reduce water usage
+- [ ] Evaluate Vertical Towers to stabilize pH levels
+- [ ] Evaluate Water pumps for automated operation
+- [ ] Evaluate Water pumps for high-density urban farming
+- [ ] Evaluate Water pumps for maximum yield
+- [ ] Evaluate Water pumps for off-grid capability
+- [ ] Evaluate Water pumps for power efficiency
+- [ ] Evaluate Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Water pumps for the Greenhouse build
+- [ ] Evaluate Water pumps to improve root oxygenation
+- [ ] Evaluate Water pumps to lower maintenance time
+- [ ] Evaluate Water pumps to prevent algae growth
+- [ ] Evaluate Water pumps to reduce water usage
+- [ ] Evaluate Water pumps to stabilize pH levels
+- [ ] Evaluate Water temperature sensors for automated operation
+- [ ] Evaluate Water temperature sensors for high-density urban farming
+- [ ] Evaluate Water temperature sensors for maximum yield
+- [ ] Evaluate Water temperature sensors for off-grid capability
+- [ ] Evaluate Water temperature sensors for power efficiency
+- [ ] Evaluate Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate Water temperature sensors for the Greenhouse build
+- [ ] Evaluate Water temperature sensors to improve root oxygenation
+- [ ] Evaluate Water temperature sensors to lower maintenance time
+- [ ] Evaluate Water temperature sensors to prevent algae growth
+- [ ] Evaluate Water temperature sensors to reduce water usage
+- [ ] Evaluate Water temperature sensors to stabilize pH levels
+- [ ] Evaluate ZipGrow style setup for automated operation
+- [ ] Evaluate ZipGrow style setup for high-density urban farming
+- [ ] Evaluate ZipGrow style setup for maximum yield
+- [ ] Evaluate ZipGrow style setup for off-grid capability
+- [ ] Evaluate ZipGrow style setup for power efficiency
+- [ ] Evaluate ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Evaluate ZipGrow style setup for the Greenhouse build
+- [ ] Evaluate ZipGrow style setup to improve root oxygenation
+- [ ] Evaluate ZipGrow style setup to lower maintenance time
+- [ ] Evaluate ZipGrow style setup to prevent algae growth
+- [ ] Evaluate ZipGrow style setup to reduce water usage
+- [ ] Evaluate ZipGrow style setup to stabilize pH levels
+- [ ] Optimize A-Frame system for automated operation
+- [ ] Optimize A-Frame system for high-density urban farming
+- [ ] Optimize A-Frame system for maximum yield
+- [ ] Optimize A-Frame system for off-grid capability
+- [ ] Optimize A-Frame system for power efficiency
+- [ ] Optimize A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize A-Frame system for the Greenhouse build
+- [ ] Optimize A-Frame system to improve root oxygenation
+- [ ] Optimize A-Frame system to lower maintenance time
+- [ ] Optimize A-Frame system to prevent algae growth
+- [ ] Optimize A-Frame system to reduce water usage
+- [ ] Optimize A-Frame system to stabilize pH levels
+- [ ] Optimize Aeroponics misting nozzles for automated operation
+- [ ] Optimize Aeroponics misting nozzles for high-density urban farming
+- [ ] Optimize Aeroponics misting nozzles for maximum yield
+- [ ] Optimize Aeroponics misting nozzles for off-grid capability
+- [ ] Optimize Aeroponics misting nozzles for power efficiency
+- [ ] Optimize Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Aeroponics misting nozzles for the Greenhouse build
+- [ ] Optimize Aeroponics misting nozzles to improve root oxygenation
+- [ ] Optimize Aeroponics misting nozzles to lower maintenance time
+- [ ] Optimize Aeroponics misting nozzles to prevent algae growth
+- [ ] Optimize Aeroponics misting nozzles to reduce water usage
+- [ ] Optimize Aeroponics misting nozzles to stabilize pH levels
+- [ ] Optimize Air pumps for automated operation
+- [ ] Optimize Air pumps for high-density urban farming
+- [ ] Optimize Air pumps for maximum yield
+- [ ] Optimize Air pumps for off-grid capability
+- [ ] Optimize Air pumps for power efficiency
+- [ ] Optimize Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Air pumps for the Greenhouse build
+- [ ] Optimize Air pumps to improve root oxygenation
+- [ ] Optimize Air pumps to lower maintenance time
+- [ ] Optimize Air pumps to prevent algae growth
+- [ ] Optimize Air pumps to reduce water usage
+- [ ] Optimize Air pumps to stabilize pH levels
+- [ ] Optimize Airstones for automated operation
+- [ ] Optimize Airstones for high-density urban farming
+- [ ] Optimize Airstones for maximum yield
+- [ ] Optimize Airstones for off-grid capability
+- [ ] Optimize Airstones for power efficiency
+- [ ] Optimize Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Airstones for the Greenhouse build
+- [ ] Optimize Airstones to improve root oxygenation
+- [ ] Optimize Airstones to lower maintenance time
+- [ ] Optimize Airstones to prevent algae growth
+- [ ] Optimize Airstones to reduce water usage
+- [ ] Optimize Airstones to stabilize pH levels
+- [ ] Optimize Arduino pH sensors for automated operation
+- [ ] Optimize Arduino pH sensors for high-density urban farming
+- [ ] Optimize Arduino pH sensors for maximum yield
+- [ ] Optimize Arduino pH sensors for off-grid capability
+- [ ] Optimize Arduino pH sensors for power efficiency
+- [ ] Optimize Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Arduino pH sensors for the Greenhouse build
+- [ ] Optimize Arduino pH sensors to improve root oxygenation
+- [ ] Optimize Arduino pH sensors to lower maintenance time
+- [ ] Optimize Arduino pH sensors to prevent algae growth
+- [ ] Optimize Arduino pH sensors to reduce water usage
+- [ ] Optimize Arduino pH sensors to stabilize pH levels
+- [ ] Optimize Clay pebbles (Hydroton) for automated operation
+- [ ] Optimize Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Optimize Clay pebbles (Hydroton) for maximum yield
+- [ ] Optimize Clay pebbles (Hydroton) for off-grid capability
+- [ ] Optimize Clay pebbles (Hydroton) for power efficiency
+- [ ] Optimize Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Optimize Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Optimize Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Optimize Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Optimize Clay pebbles (Hydroton) to reduce water usage
+- [ ] Optimize Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Optimize Drip irrigation emitters for automated operation
+- [ ] Optimize Drip irrigation emitters for high-density urban farming
+- [ ] Optimize Drip irrigation emitters for maximum yield
+- [ ] Optimize Drip irrigation emitters for off-grid capability
+- [ ] Optimize Drip irrigation emitters for power efficiency
+- [ ] Optimize Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Drip irrigation emitters for the Greenhouse build
+- [ ] Optimize Drip irrigation emitters to improve root oxygenation
+- [ ] Optimize Drip irrigation emitters to lower maintenance time
+- [ ] Optimize Drip irrigation emitters to prevent algae growth
+- [ ] Optimize Drip irrigation emitters to reduce water usage
+- [ ] Optimize Drip irrigation emitters to stabilize pH levels
+- [ ] Optimize Fogponics ultrasonic foggers for automated operation
+- [ ] Optimize Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Optimize Fogponics ultrasonic foggers for maximum yield
+- [ ] Optimize Fogponics ultrasonic foggers for off-grid capability
+- [ ] Optimize Fogponics ultrasonic foggers for power efficiency
+- [ ] Optimize Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Optimize Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Optimize Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Optimize Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Optimize Fogponics ultrasonic foggers to reduce water usage
+- [ ] Optimize Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Optimize LED Grow Lights for automated operation
+- [ ] Optimize LED Grow Lights for high-density urban farming
+- [ ] Optimize LED Grow Lights for maximum yield
+- [ ] Optimize LED Grow Lights for off-grid capability
+- [ ] Optimize LED Grow Lights for power efficiency
+- [ ] Optimize LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize LED Grow Lights for the Greenhouse build
+- [ ] Optimize LED Grow Lights to improve root oxygenation
+- [ ] Optimize LED Grow Lights to lower maintenance time
+- [ ] Optimize LED Grow Lights to prevent algae growth
+- [ ] Optimize LED Grow Lights to reduce water usage
+- [ ] Optimize LED Grow Lights to stabilize pH levels
+- [ ] Optimize Net Pots for automated operation
+- [ ] Optimize Net Pots for high-density urban farming
+- [ ] Optimize Net Pots for maximum yield
+- [ ] Optimize Net Pots for off-grid capability
+- [ ] Optimize Net Pots for power efficiency
+- [ ] Optimize Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Net Pots for the Greenhouse build
+- [ ] Optimize Net Pots to improve root oxygenation
+- [ ] Optimize Net Pots to lower maintenance time
+- [ ] Optimize Net Pots to prevent algae growth
+- [ ] Optimize Net Pots to reduce water usage
+- [ ] Optimize Net Pots to stabilize pH levels
+- [ ] Optimize PVC Window Farms for automated operation
+- [ ] Optimize PVC Window Farms for high-density urban farming
+- [ ] Optimize PVC Window Farms for maximum yield
+- [ ] Optimize PVC Window Farms for off-grid capability
+- [ ] Optimize PVC Window Farms for power efficiency
+- [ ] Optimize PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize PVC Window Farms for the Greenhouse build
+- [ ] Optimize PVC Window Farms to improve root oxygenation
+- [ ] Optimize PVC Window Farms to lower maintenance time
+- [ ] Optimize PVC Window Farms to prevent algae growth
+- [ ] Optimize PVC Window Farms to reduce water usage
+- [ ] Optimize PVC Window Farms to stabilize pH levels
+- [ ] Optimize Pool Noodle grow medium for automated operation
+- [ ] Optimize Pool Noodle grow medium for high-density urban farming
+- [ ] Optimize Pool Noodle grow medium for maximum yield
+- [ ] Optimize Pool Noodle grow medium for off-grid capability
+- [ ] Optimize Pool Noodle grow medium for power efficiency
+- [ ] Optimize Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Pool Noodle grow medium for the Greenhouse build
+- [ ] Optimize Pool Noodle grow medium to improve root oxygenation
+- [ ] Optimize Pool Noodle grow medium to lower maintenance time
+- [ ] Optimize Pool Noodle grow medium to prevent algae growth
+- [ ] Optimize Pool Noodle grow medium to reduce water usage
+- [ ] Optimize Pool Noodle grow medium to stabilize pH levels
+- [ ] Optimize Raspberry Pi nutrient dosers for automated operation
+- [ ] Optimize Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Optimize Raspberry Pi nutrient dosers for maximum yield
+- [ ] Optimize Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Optimize Raspberry Pi nutrient dosers for power efficiency
+- [ ] Optimize Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Optimize Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Optimize Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Optimize Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Optimize Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Optimize Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Optimize Reservoir tanks for automated operation
+- [ ] Optimize Reservoir tanks for high-density urban farming
+- [ ] Optimize Reservoir tanks for maximum yield
+- [ ] Optimize Reservoir tanks for off-grid capability
+- [ ] Optimize Reservoir tanks for power efficiency
+- [ ] Optimize Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Reservoir tanks for the Greenhouse build
+- [ ] Optimize Reservoir tanks to improve root oxygenation
+- [ ] Optimize Reservoir tanks to lower maintenance time
+- [ ] Optimize Reservoir tanks to prevent algae growth
+- [ ] Optimize Reservoir tanks to reduce water usage
+- [ ] Optimize Reservoir tanks to stabilize pH levels
+- [ ] Optimize Rockwool cubes for automated operation
+- [ ] Optimize Rockwool cubes for high-density urban farming
+- [ ] Optimize Rockwool cubes for maximum yield
+- [ ] Optimize Rockwool cubes for off-grid capability
+- [ ] Optimize Rockwool cubes for power efficiency
+- [ ] Optimize Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Rockwool cubes for the Greenhouse build
+- [ ] Optimize Rockwool cubes to improve root oxygenation
+- [ ] Optimize Rockwool cubes to lower maintenance time
+- [ ] Optimize Rockwool cubes to prevent algae growth
+- [ ] Optimize Rockwool cubes to reduce water usage
+- [ ] Optimize Rockwool cubes to stabilize pH levels
+- [ ] Optimize Timer relays for automated operation
+- [ ] Optimize Timer relays for high-density urban farming
+- [ ] Optimize Timer relays for maximum yield
+- [ ] Optimize Timer relays for off-grid capability
+- [ ] Optimize Timer relays for power efficiency
+- [ ] Optimize Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Timer relays for the Greenhouse build
+- [ ] Optimize Timer relays to improve root oxygenation
+- [ ] Optimize Timer relays to lower maintenance time
+- [ ] Optimize Timer relays to prevent algae growth
+- [ ] Optimize Timer relays to reduce water usage
+- [ ] Optimize Timer relays to stabilize pH levels
+- [ ] Optimize Vertical Towers for automated operation
+- [ ] Optimize Vertical Towers for high-density urban farming
+- [ ] Optimize Vertical Towers for maximum yield
+- [ ] Optimize Vertical Towers for off-grid capability
+- [ ] Optimize Vertical Towers for power efficiency
+- [ ] Optimize Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Vertical Towers for the Greenhouse build
+- [ ] Optimize Vertical Towers to improve root oxygenation
+- [ ] Optimize Vertical Towers to lower maintenance time
+- [ ] Optimize Vertical Towers to prevent algae growth
+- [ ] Optimize Vertical Towers to reduce water usage
+- [ ] Optimize Vertical Towers to stabilize pH levels
+- [ ] Optimize Water pumps for automated operation
+- [ ] Optimize Water pumps for high-density urban farming
+- [ ] Optimize Water pumps for maximum yield
+- [ ] Optimize Water pumps for off-grid capability
+- [ ] Optimize Water pumps for power efficiency
+- [ ] Optimize Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Water pumps for the Greenhouse build
+- [ ] Optimize Water pumps to improve root oxygenation
+- [ ] Optimize Water pumps to lower maintenance time
+- [ ] Optimize Water pumps to prevent algae growth
+- [ ] Optimize Water pumps to reduce water usage
+- [ ] Optimize Water pumps to stabilize pH levels
+- [ ] Optimize Water temperature sensors for automated operation
+- [ ] Optimize Water temperature sensors for high-density urban farming
+- [ ] Optimize Water temperature sensors for maximum yield
+- [ ] Optimize Water temperature sensors for off-grid capability
+- [ ] Optimize Water temperature sensors for power efficiency
+- [ ] Optimize Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize Water temperature sensors for the Greenhouse build
+- [ ] Optimize Water temperature sensors to improve root oxygenation
+- [ ] Optimize Water temperature sensors to lower maintenance time
+- [ ] Optimize Water temperature sensors to prevent algae growth
+- [ ] Optimize Water temperature sensors to reduce water usage
+- [ ] Optimize Water temperature sensors to stabilize pH levels
+- [ ] Optimize ZipGrow style setup for automated operation
+- [ ] Optimize ZipGrow style setup for high-density urban farming
+- [ ] Optimize ZipGrow style setup for maximum yield
+- [ ] Optimize ZipGrow style setup for off-grid capability
+- [ ] Optimize ZipGrow style setup for power efficiency
+- [ ] Optimize ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Optimize ZipGrow style setup for the Greenhouse build
+- [ ] Optimize ZipGrow style setup to improve root oxygenation
+- [ ] Optimize ZipGrow style setup to lower maintenance time
+- [ ] Optimize ZipGrow style setup to prevent algae growth
+- [ ] Optimize ZipGrow style setup to reduce water usage
+- [ ] Optimize ZipGrow style setup to stabilize pH levels
+- [ ] Research A-Frame system for automated operation
+- [ ] Research A-Frame system for high-density urban farming
+- [ ] Research A-Frame system for maximum yield
+- [ ] Research A-Frame system for off-grid capability
+- [ ] Research A-Frame system for power efficiency
+- [ ] Research A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Research A-Frame system for the Greenhouse build
+- [ ] Research A-Frame system to improve root oxygenation
+- [ ] Research A-Frame system to lower maintenance time
+- [ ] Research A-Frame system to prevent algae growth
+- [ ] Research A-Frame system to reduce water usage
+- [ ] Research A-Frame system to stabilize pH levels
+- [ ] Research Aeroponics misting nozzles for automated operation
+- [ ] Research Aeroponics misting nozzles for high-density urban farming
+- [ ] Research Aeroponics misting nozzles for maximum yield
+- [ ] Research Aeroponics misting nozzles for off-grid capability
+- [ ] Research Aeroponics misting nozzles for power efficiency
+- [ ] Research Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Research Aeroponics misting nozzles for the Greenhouse build
+- [ ] Research Aeroponics misting nozzles to improve root oxygenation
+- [ ] Research Aeroponics misting nozzles to lower maintenance time
+- [ ] Research Aeroponics misting nozzles to prevent algae growth
+- [ ] Research Aeroponics misting nozzles to reduce water usage
+- [ ] Research Aeroponics misting nozzles to stabilize pH levels
+- [ ] Research Air pumps for automated operation
+- [ ] Research Air pumps for high-density urban farming
+- [ ] Research Air pumps for maximum yield
+- [ ] Research Air pumps for off-grid capability
+- [ ] Research Air pumps for power efficiency
+- [ ] Research Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Research Air pumps for the Greenhouse build
+- [ ] Research Air pumps to improve root oxygenation
+- [ ] Research Air pumps to lower maintenance time
+- [ ] Research Air pumps to prevent algae growth
+- [ ] Research Air pumps to reduce water usage
+- [ ] Research Air pumps to stabilize pH levels
+- [ ] Research Airstones for automated operation
+- [ ] Research Airstones for high-density urban farming
+- [ ] Research Airstones for maximum yield
+- [ ] Research Airstones for off-grid capability
+- [ ] Research Airstones for power efficiency
+- [ ] Research Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Research Airstones for the Greenhouse build
+- [ ] Research Airstones to improve root oxygenation
+- [ ] Research Airstones to lower maintenance time
+- [ ] Research Airstones to prevent algae growth
+- [ ] Research Airstones to reduce water usage
+- [ ] Research Airstones to stabilize pH levels
+- [ ] Research Arduino pH sensors for automated operation
+- [ ] Research Arduino pH sensors for high-density urban farming
+- [ ] Research Arduino pH sensors for maximum yield
+- [ ] Research Arduino pH sensors for off-grid capability
+- [ ] Research Arduino pH sensors for power efficiency
+- [ ] Research Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Research Arduino pH sensors for the Greenhouse build
+- [ ] Research Arduino pH sensors to improve root oxygenation
+- [ ] Research Arduino pH sensors to lower maintenance time
+- [ ] Research Arduino pH sensors to prevent algae growth
+- [ ] Research Arduino pH sensors to reduce water usage
+- [ ] Research Arduino pH sensors to stabilize pH levels
+- [ ] Research Clay pebbles (Hydroton) for automated operation
+- [ ] Research Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Research Clay pebbles (Hydroton) for maximum yield
+- [ ] Research Clay pebbles (Hydroton) for off-grid capability
+- [ ] Research Clay pebbles (Hydroton) for power efficiency
+- [ ] Research Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Research Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Research Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Research Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Research Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Research Clay pebbles (Hydroton) to reduce water usage
+- [ ] Research Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Research Drip irrigation emitters for automated operation
+- [ ] Research Drip irrigation emitters for high-density urban farming
+- [ ] Research Drip irrigation emitters for maximum yield
+- [ ] Research Drip irrigation emitters for off-grid capability
+- [ ] Research Drip irrigation emitters for power efficiency
+- [ ] Research Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Research Drip irrigation emitters for the Greenhouse build
+- [ ] Research Drip irrigation emitters to improve root oxygenation
+- [ ] Research Drip irrigation emitters to lower maintenance time
+- [ ] Research Drip irrigation emitters to prevent algae growth
+- [ ] Research Drip irrigation emitters to reduce water usage
+- [ ] Research Drip irrigation emitters to stabilize pH levels
+- [ ] Research Fogponics ultrasonic foggers for automated operation
+- [ ] Research Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Research Fogponics ultrasonic foggers for maximum yield
+- [ ] Research Fogponics ultrasonic foggers for off-grid capability
+- [ ] Research Fogponics ultrasonic foggers for power efficiency
+- [ ] Research Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Research Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Research Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Research Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Research Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Research Fogponics ultrasonic foggers to reduce water usage
+- [ ] Research Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Research LED Grow Lights for automated operation
+- [ ] Research LED Grow Lights for high-density urban farming
+- [ ] Research LED Grow Lights for maximum yield
+- [ ] Research LED Grow Lights for off-grid capability
+- [ ] Research LED Grow Lights for power efficiency
+- [ ] Research LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Research LED Grow Lights for the Greenhouse build
+- [ ] Research LED Grow Lights to improve root oxygenation
+- [ ] Research LED Grow Lights to lower maintenance time
+- [ ] Research LED Grow Lights to prevent algae growth
+- [ ] Research LED Grow Lights to reduce water usage
+- [ ] Research LED Grow Lights to stabilize pH levels
+- [ ] Research Net Pots for automated operation
+- [ ] Research Net Pots for high-density urban farming
+- [ ] Research Net Pots for maximum yield
+- [ ] Research Net Pots for off-grid capability
+- [ ] Research Net Pots for power efficiency
+- [ ] Research Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Research Net Pots for the Greenhouse build
+- [ ] Research Net Pots to improve root oxygenation
+- [ ] Research Net Pots to lower maintenance time
+- [ ] Research Net Pots to prevent algae growth
+- [ ] Research Net Pots to reduce water usage
+- [ ] Research Net Pots to stabilize pH levels
+- [ ] Research PVC Window Farms for automated operation
+- [ ] Research PVC Window Farms for high-density urban farming
+- [ ] Research PVC Window Farms for maximum yield
+- [ ] Research PVC Window Farms for off-grid capability
+- [ ] Research PVC Window Farms for power efficiency
+- [ ] Research PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Research PVC Window Farms for the Greenhouse build
+- [ ] Research PVC Window Farms to improve root oxygenation
+- [ ] Research PVC Window Farms to lower maintenance time
+- [ ] Research PVC Window Farms to prevent algae growth
+- [ ] Research PVC Window Farms to reduce water usage
+- [ ] Research PVC Window Farms to stabilize pH levels
+- [ ] Research Pool Noodle grow medium for automated operation
+- [ ] Research Pool Noodle grow medium for high-density urban farming
+- [ ] Research Pool Noodle grow medium for maximum yield
+- [ ] Research Pool Noodle grow medium for off-grid capability
+- [ ] Research Pool Noodle grow medium for power efficiency
+- [ ] Research Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Research Pool Noodle grow medium for the Greenhouse build
+- [ ] Research Pool Noodle grow medium to improve root oxygenation
+- [ ] Research Pool Noodle grow medium to lower maintenance time
+- [ ] Research Pool Noodle grow medium to prevent algae growth
+- [ ] Research Pool Noodle grow medium to reduce water usage
+- [ ] Research Pool Noodle grow medium to stabilize pH levels
+- [ ] Research Raspberry Pi nutrient dosers for automated operation
+- [ ] Research Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Research Raspberry Pi nutrient dosers for maximum yield
+- [ ] Research Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Research Raspberry Pi nutrient dosers for power efficiency
+- [ ] Research Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Research Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Research Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Research Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Research Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Research Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Research Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Research Reservoir tanks for automated operation
+- [ ] Research Reservoir tanks for high-density urban farming
+- [ ] Research Reservoir tanks for maximum yield
+- [ ] Research Reservoir tanks for off-grid capability
+- [ ] Research Reservoir tanks for power efficiency
+- [ ] Research Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Research Reservoir tanks for the Greenhouse build
+- [ ] Research Reservoir tanks to improve root oxygenation
+- [ ] Research Reservoir tanks to lower maintenance time
+- [ ] Research Reservoir tanks to prevent algae growth
+- [ ] Research Reservoir tanks to reduce water usage
+- [ ] Research Reservoir tanks to stabilize pH levels
+- [ ] Research Rockwool cubes for automated operation
+- [ ] Research Rockwool cubes for high-density urban farming
+- [ ] Research Rockwool cubes for maximum yield
+- [ ] Research Rockwool cubes for off-grid capability
+- [ ] Research Rockwool cubes for power efficiency
+- [ ] Research Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Research Rockwool cubes for the Greenhouse build
+- [ ] Research Rockwool cubes to improve root oxygenation
+- [ ] Research Rockwool cubes to lower maintenance time
+- [ ] Research Rockwool cubes to prevent algae growth
+- [ ] Research Rockwool cubes to reduce water usage
+- [ ] Research Rockwool cubes to stabilize pH levels
+- [ ] Research Timer relays for automated operation
+- [ ] Research Timer relays for high-density urban farming
+- [ ] Research Timer relays for maximum yield
+- [ ] Research Timer relays for off-grid capability
+- [ ] Research Timer relays for power efficiency
+- [ ] Research Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Research Timer relays for the Greenhouse build
+- [ ] Research Timer relays to improve root oxygenation
+- [ ] Research Timer relays to lower maintenance time
+- [ ] Research Timer relays to prevent algae growth
+- [ ] Research Timer relays to reduce water usage
+- [ ] Research Timer relays to stabilize pH levels
+- [ ] Research Vertical Towers for automated operation
+- [ ] Research Vertical Towers for high-density urban farming
+- [ ] Research Vertical Towers for maximum yield
+- [ ] Research Vertical Towers for off-grid capability
+- [ ] Research Vertical Towers for power efficiency
+- [ ] Research Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Research Vertical Towers for the Greenhouse build
+- [ ] Research Vertical Towers to improve root oxygenation
+- [ ] Research Vertical Towers to lower maintenance time
+- [ ] Research Vertical Towers to prevent algae growth
+- [ ] Research Vertical Towers to reduce water usage
+- [ ] Research Vertical Towers to stabilize pH levels
+- [ ] Research Water pumps for automated operation
+- [ ] Research Water pumps for high-density urban farming
+- [ ] Research Water pumps for maximum yield
+- [ ] Research Water pumps for off-grid capability
+- [ ] Research Water pumps for power efficiency
+- [ ] Research Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Research Water pumps for the Greenhouse build
+- [ ] Research Water pumps to improve root oxygenation
+- [ ] Research Water pumps to lower maintenance time
+- [ ] Research Water pumps to prevent algae growth
+- [ ] Research Water pumps to reduce water usage
+- [ ] Research Water pumps to stabilize pH levels
+- [ ] Research Water temperature sensors for automated operation
+- [ ] Research Water temperature sensors for high-density urban farming
+- [ ] Research Water temperature sensors for maximum yield
+- [ ] Research Water temperature sensors for off-grid capability
+- [ ] Research Water temperature sensors for power efficiency
+- [ ] Research Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Research Water temperature sensors for the Greenhouse build
+- [ ] Research Water temperature sensors to improve root oxygenation
+- [ ] Research Water temperature sensors to lower maintenance time
+- [ ] Research Water temperature sensors to prevent algae growth
+- [ ] Research Water temperature sensors to reduce water usage
+- [ ] Research Water temperature sensors to stabilize pH levels
+- [ ] Research ZipGrow style setup for automated operation
+- [ ] Research ZipGrow style setup for high-density urban farming
+- [ ] Research ZipGrow style setup for maximum yield
+- [ ] Research ZipGrow style setup for off-grid capability
+- [ ] Research ZipGrow style setup for power efficiency
+- [ ] Research ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Research ZipGrow style setup for the Greenhouse build
+- [ ] Research ZipGrow style setup to improve root oxygenation
+- [ ] Research ZipGrow style setup to lower maintenance time
+- [ ] Research ZipGrow style setup to prevent algae growth
+- [ ] Research ZipGrow style setup to reduce water usage
+- [ ] Research ZipGrow style setup to stabilize pH levels
+- [ ] Source materials for A-Frame system for automated operation
+- [ ] Source materials for A-Frame system for high-density urban farming
+- [ ] Source materials for A-Frame system for maximum yield
+- [ ] Source materials for A-Frame system for off-grid capability
+- [ ] Source materials for A-Frame system for power efficiency
+- [ ] Source materials for A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for A-Frame system for the Greenhouse build
+- [ ] Source materials for A-Frame system to improve root oxygenation
+- [ ] Source materials for A-Frame system to lower maintenance time
+- [ ] Source materials for A-Frame system to prevent algae growth
+- [ ] Source materials for A-Frame system to reduce water usage
+- [ ] Source materials for A-Frame system to stabilize pH levels
+- [ ] Source materials for Aeroponics misting nozzles for automated operation
+- [ ] Source materials for Aeroponics misting nozzles for high-density urban farming
+- [ ] Source materials for Aeroponics misting nozzles for maximum yield
+- [ ] Source materials for Aeroponics misting nozzles for off-grid capability
+- [ ] Source materials for Aeroponics misting nozzles for power efficiency
+- [ ] Source materials for Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Aeroponics misting nozzles for the Greenhouse build
+- [ ] Source materials for Aeroponics misting nozzles to improve root oxygenation
+- [ ] Source materials for Aeroponics misting nozzles to lower maintenance time
+- [ ] Source materials for Aeroponics misting nozzles to prevent algae growth
+- [ ] Source materials for Aeroponics misting nozzles to reduce water usage
+- [ ] Source materials for Aeroponics misting nozzles to stabilize pH levels
+- [ ] Source materials for Air pumps for automated operation
+- [ ] Source materials for Air pumps for high-density urban farming
+- [ ] Source materials for Air pumps for maximum yield
+- [ ] Source materials for Air pumps for off-grid capability
+- [ ] Source materials for Air pumps for power efficiency
+- [ ] Source materials for Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Air pumps for the Greenhouse build
+- [ ] Source materials for Air pumps to improve root oxygenation
+- [ ] Source materials for Air pumps to lower maintenance time
+- [ ] Source materials for Air pumps to prevent algae growth
+- [ ] Source materials for Air pumps to reduce water usage
+- [ ] Source materials for Air pumps to stabilize pH levels
+- [ ] Source materials for Airstones for automated operation
+- [ ] Source materials for Airstones for high-density urban farming
+- [ ] Source materials for Airstones for maximum yield
+- [ ] Source materials for Airstones for off-grid capability
+- [ ] Source materials for Airstones for power efficiency
+- [ ] Source materials for Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Airstones for the Greenhouse build
+- [ ] Source materials for Airstones to improve root oxygenation
+- [ ] Source materials for Airstones to lower maintenance time
+- [ ] Source materials for Airstones to prevent algae growth
+- [ ] Source materials for Airstones to reduce water usage
+- [ ] Source materials for Airstones to stabilize pH levels
+- [ ] Source materials for Arduino pH sensors for automated operation
+- [ ] Source materials for Arduino pH sensors for high-density urban farming
+- [ ] Source materials for Arduino pH sensors for maximum yield
+- [ ] Source materials for Arduino pH sensors for off-grid capability
+- [ ] Source materials for Arduino pH sensors for power efficiency
+- [ ] Source materials for Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Arduino pH sensors for the Greenhouse build
+- [ ] Source materials for Arduino pH sensors to improve root oxygenation
+- [ ] Source materials for Arduino pH sensors to lower maintenance time
+- [ ] Source materials for Arduino pH sensors to prevent algae growth
+- [ ] Source materials for Arduino pH sensors to reduce water usage
+- [ ] Source materials for Arduino pH sensors to stabilize pH levels
+- [ ] Source materials for Clay pebbles (Hydroton) for automated operation
+- [ ] Source materials for Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Source materials for Clay pebbles (Hydroton) for maximum yield
+- [ ] Source materials for Clay pebbles (Hydroton) for off-grid capability
+- [ ] Source materials for Clay pebbles (Hydroton) for power efficiency
+- [ ] Source materials for Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Source materials for Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Source materials for Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Source materials for Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Source materials for Clay pebbles (Hydroton) to reduce water usage
+- [ ] Source materials for Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Source materials for Drip irrigation emitters for automated operation
+- [ ] Source materials for Drip irrigation emitters for high-density urban farming
+- [ ] Source materials for Drip irrigation emitters for maximum yield
+- [ ] Source materials for Drip irrigation emitters for off-grid capability
+- [ ] Source materials for Drip irrigation emitters for power efficiency
+- [ ] Source materials for Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Drip irrigation emitters for the Greenhouse build
+- [ ] Source materials for Drip irrigation emitters to improve root oxygenation
+- [ ] Source materials for Drip irrigation emitters to lower maintenance time
+- [ ] Source materials for Drip irrigation emitters to prevent algae growth
+- [ ] Source materials for Drip irrigation emitters to reduce water usage
+- [ ] Source materials for Drip irrigation emitters to stabilize pH levels
+- [ ] Source materials for Fogponics ultrasonic foggers for automated operation
+- [ ] Source materials for Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Source materials for Fogponics ultrasonic foggers for maximum yield
+- [ ] Source materials for Fogponics ultrasonic foggers for off-grid capability
+- [ ] Source materials for Fogponics ultrasonic foggers for power efficiency
+- [ ] Source materials for Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Source materials for Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Source materials for Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Source materials for Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Source materials for Fogponics ultrasonic foggers to reduce water usage
+- [ ] Source materials for Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Source materials for LED Grow Lights for automated operation
+- [ ] Source materials for LED Grow Lights for high-density urban farming
+- [ ] Source materials for LED Grow Lights for maximum yield
+- [ ] Source materials for LED Grow Lights for off-grid capability
+- [ ] Source materials for LED Grow Lights for power efficiency
+- [ ] Source materials for LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for LED Grow Lights for the Greenhouse build
+- [ ] Source materials for LED Grow Lights to improve root oxygenation
+- [ ] Source materials for LED Grow Lights to lower maintenance time
+- [ ] Source materials for LED Grow Lights to prevent algae growth
+- [ ] Source materials for LED Grow Lights to reduce water usage
+- [ ] Source materials for LED Grow Lights to stabilize pH levels
+- [ ] Source materials for Net Pots for automated operation
+- [ ] Source materials for Net Pots for high-density urban farming
+- [ ] Source materials for Net Pots for maximum yield
+- [ ] Source materials for Net Pots for off-grid capability
+- [ ] Source materials for Net Pots for power efficiency
+- [ ] Source materials for Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Net Pots for the Greenhouse build
+- [ ] Source materials for Net Pots to improve root oxygenation
+- [ ] Source materials for Net Pots to lower maintenance time
+- [ ] Source materials for Net Pots to prevent algae growth
+- [ ] Source materials for Net Pots to reduce water usage
+- [ ] Source materials for Net Pots to stabilize pH levels
+- [ ] Source materials for PVC Window Farms for automated operation
+- [ ] Source materials for PVC Window Farms for high-density urban farming
+- [ ] Source materials for PVC Window Farms for maximum yield
+- [ ] Source materials for PVC Window Farms for off-grid capability
+- [ ] Source materials for PVC Window Farms for power efficiency
+- [ ] Source materials for PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for PVC Window Farms for the Greenhouse build
+- [ ] Source materials for PVC Window Farms to improve root oxygenation
+- [ ] Source materials for PVC Window Farms to lower maintenance time
+- [ ] Source materials for PVC Window Farms to prevent algae growth
+- [ ] Source materials for PVC Window Farms to reduce water usage
+- [ ] Source materials for PVC Window Farms to stabilize pH levels
+- [ ] Source materials for Pool Noodle grow medium for automated operation
+- [ ] Source materials for Pool Noodle grow medium for high-density urban farming
+- [ ] Source materials for Pool Noodle grow medium for maximum yield
+- [ ] Source materials for Pool Noodle grow medium for off-grid capability
+- [ ] Source materials for Pool Noodle grow medium for power efficiency
+- [ ] Source materials for Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Pool Noodle grow medium for the Greenhouse build
+- [ ] Source materials for Pool Noodle grow medium to improve root oxygenation
+- [ ] Source materials for Pool Noodle grow medium to lower maintenance time
+- [ ] Source materials for Pool Noodle grow medium to prevent algae growth
+- [ ] Source materials for Pool Noodle grow medium to reduce water usage
+- [ ] Source materials for Pool Noodle grow medium to stabilize pH levels
+- [ ] Source materials for Raspberry Pi nutrient dosers for automated operation
+- [ ] Source materials for Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Source materials for Raspberry Pi nutrient dosers for maximum yield
+- [ ] Source materials for Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Source materials for Raspberry Pi nutrient dosers for power efficiency
+- [ ] Source materials for Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Source materials for Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Source materials for Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Source materials for Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Source materials for Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Source materials for Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Source materials for Reservoir tanks for automated operation
+- [ ] Source materials for Reservoir tanks for high-density urban farming
+- [ ] Source materials for Reservoir tanks for maximum yield
+- [ ] Source materials for Reservoir tanks for off-grid capability
+- [ ] Source materials for Reservoir tanks for power efficiency
+- [ ] Source materials for Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Reservoir tanks for the Greenhouse build
+- [ ] Source materials for Reservoir tanks to improve root oxygenation
+- [ ] Source materials for Reservoir tanks to lower maintenance time
+- [ ] Source materials for Reservoir tanks to prevent algae growth
+- [ ] Source materials for Reservoir tanks to reduce water usage
+- [ ] Source materials for Reservoir tanks to stabilize pH levels
+- [ ] Source materials for Rockwool cubes for automated operation
+- [ ] Source materials for Rockwool cubes for high-density urban farming
+- [ ] Source materials for Rockwool cubes for maximum yield
+- [ ] Source materials for Rockwool cubes for off-grid capability
+- [ ] Source materials for Rockwool cubes for power efficiency
+- [ ] Source materials for Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Rockwool cubes for the Greenhouse build
+- [ ] Source materials for Rockwool cubes to improve root oxygenation
+- [ ] Source materials for Rockwool cubes to lower maintenance time
+- [ ] Source materials for Rockwool cubes to prevent algae growth
+- [ ] Source materials for Rockwool cubes to reduce water usage
+- [ ] Source materials for Rockwool cubes to stabilize pH levels
+- [ ] Source materials for Timer relays for automated operation
+- [ ] Source materials for Timer relays for high-density urban farming
+- [ ] Source materials for Timer relays for maximum yield
+- [ ] Source materials for Timer relays for off-grid capability
+- [ ] Source materials for Timer relays for power efficiency
+- [ ] Source materials for Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Timer relays for the Greenhouse build
+- [ ] Source materials for Timer relays to improve root oxygenation
+- [ ] Source materials for Timer relays to lower maintenance time
+- [ ] Source materials for Timer relays to prevent algae growth
+- [ ] Source materials for Timer relays to reduce water usage
+- [ ] Source materials for Timer relays to stabilize pH levels
+- [ ] Source materials for Vertical Towers for automated operation
+- [ ] Source materials for Vertical Towers for high-density urban farming
+- [ ] Source materials for Vertical Towers for maximum yield
+- [ ] Source materials for Vertical Towers for off-grid capability
+- [ ] Source materials for Vertical Towers for power efficiency
+- [ ] Source materials for Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Vertical Towers for the Greenhouse build
+- [ ] Source materials for Vertical Towers to improve root oxygenation
+- [ ] Source materials for Vertical Towers to lower maintenance time
+- [ ] Source materials for Vertical Towers to prevent algae growth
+- [ ] Source materials for Vertical Towers to reduce water usage
+- [ ] Source materials for Vertical Towers to stabilize pH levels
+- [ ] Source materials for Water pumps for automated operation
+- [ ] Source materials for Water pumps for high-density urban farming
+- [ ] Source materials for Water pumps for maximum yield
+- [ ] Source materials for Water pumps for off-grid capability
+- [ ] Source materials for Water pumps for power efficiency
+- [ ] Source materials for Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Water pumps for the Greenhouse build
+- [ ] Source materials for Water pumps to improve root oxygenation
+- [ ] Source materials for Water pumps to lower maintenance time
+- [ ] Source materials for Water pumps to prevent algae growth
+- [ ] Source materials for Water pumps to reduce water usage
+- [ ] Source materials for Water pumps to stabilize pH levels
+- [ ] Source materials for Water temperature sensors for automated operation
+- [ ] Source materials for Water temperature sensors for high-density urban farming
+- [ ] Source materials for Water temperature sensors for maximum yield
+- [ ] Source materials for Water temperature sensors for off-grid capability
+- [ ] Source materials for Water temperature sensors for power efficiency
+- [ ] Source materials for Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for Water temperature sensors for the Greenhouse build
+- [ ] Source materials for Water temperature sensors to improve root oxygenation
+- [ ] Source materials for Water temperature sensors to lower maintenance time
+- [ ] Source materials for Water temperature sensors to prevent algae growth
+- [ ] Source materials for Water temperature sensors to reduce water usage
+- [ ] Source materials for Water temperature sensors to stabilize pH levels
+- [ ] Source materials for ZipGrow style setup for automated operation
+- [ ] Source materials for ZipGrow style setup for high-density urban farming
+- [ ] Source materials for ZipGrow style setup for maximum yield
+- [ ] Source materials for ZipGrow style setup for off-grid capability
+- [ ] Source materials for ZipGrow style setup for power efficiency
+- [ ] Source materials for ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Source materials for ZipGrow style setup for the Greenhouse build
+- [ ] Source materials for ZipGrow style setup to improve root oxygenation
+- [ ] Source materials for ZipGrow style setup to lower maintenance time
+- [ ] Source materials for ZipGrow style setup to prevent algae growth
+- [ ] Source materials for ZipGrow style setup to reduce water usage
+- [ ] Source materials for ZipGrow style setup to stabilize pH levels
+- [ ] Test A-Frame system for automated operation
+- [ ] Test A-Frame system for high-density urban farming
+- [ ] Test A-Frame system for maximum yield
+- [ ] Test A-Frame system for off-grid capability
+- [ ] Test A-Frame system for power efficiency
+- [ ] Test A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Test A-Frame system for the Greenhouse build
+- [ ] Test A-Frame system to improve root oxygenation
+- [ ] Test A-Frame system to lower maintenance time
+- [ ] Test A-Frame system to prevent algae growth
+- [ ] Test A-Frame system to reduce water usage
+- [ ] Test A-Frame system to stabilize pH levels
+- [ ] Test Aeroponics misting nozzles for automated operation
+- [ ] Test Aeroponics misting nozzles for high-density urban farming
+- [ ] Test Aeroponics misting nozzles for maximum yield
+- [ ] Test Aeroponics misting nozzles for off-grid capability
+- [ ] Test Aeroponics misting nozzles for power efficiency
+- [ ] Test Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Test Aeroponics misting nozzles for the Greenhouse build
+- [ ] Test Aeroponics misting nozzles to improve root oxygenation
+- [ ] Test Aeroponics misting nozzles to lower maintenance time
+- [ ] Test Aeroponics misting nozzles to prevent algae growth
+- [ ] Test Aeroponics misting nozzles to reduce water usage
+- [ ] Test Aeroponics misting nozzles to stabilize pH levels
+- [ ] Test Air pumps for automated operation
+- [ ] Test Air pumps for high-density urban farming
+- [ ] Test Air pumps for maximum yield
+- [ ] Test Air pumps for off-grid capability
+- [ ] Test Air pumps for power efficiency
+- [ ] Test Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Test Air pumps for the Greenhouse build
+- [ ] Test Air pumps to improve root oxygenation
+- [ ] Test Air pumps to lower maintenance time
+- [ ] Test Air pumps to prevent algae growth
+- [ ] Test Air pumps to reduce water usage
+- [ ] Test Air pumps to stabilize pH levels
+- [ ] Test Airstones for automated operation
+- [ ] Test Airstones for high-density urban farming
+- [ ] Test Airstones for maximum yield
+- [ ] Test Airstones for off-grid capability
+- [ ] Test Airstones for power efficiency
+- [ ] Test Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Test Airstones for the Greenhouse build
+- [ ] Test Airstones to improve root oxygenation
+- [ ] Test Airstones to lower maintenance time
+- [ ] Test Airstones to prevent algae growth
+- [ ] Test Airstones to reduce water usage
+- [ ] Test Airstones to stabilize pH levels
+- [ ] Test Arduino pH sensors for automated operation
+- [ ] Test Arduino pH sensors for high-density urban farming
+- [ ] Test Arduino pH sensors for maximum yield
+- [ ] Test Arduino pH sensors for off-grid capability
+- [ ] Test Arduino pH sensors for power efficiency
+- [ ] Test Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Test Arduino pH sensors for the Greenhouse build
+- [ ] Test Arduino pH sensors to improve root oxygenation
+- [ ] Test Arduino pH sensors to lower maintenance time
+- [ ] Test Arduino pH sensors to prevent algae growth
+- [ ] Test Arduino pH sensors to reduce water usage
+- [ ] Test Arduino pH sensors to stabilize pH levels
+- [ ] Test Clay pebbles (Hydroton) for automated operation
+- [ ] Test Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Test Clay pebbles (Hydroton) for maximum yield
+- [ ] Test Clay pebbles (Hydroton) for off-grid capability
+- [ ] Test Clay pebbles (Hydroton) for power efficiency
+- [ ] Test Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Test Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Test Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Test Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Test Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Test Clay pebbles (Hydroton) to reduce water usage
+- [ ] Test Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Test Drip irrigation emitters for automated operation
+- [ ] Test Drip irrigation emitters for high-density urban farming
+- [ ] Test Drip irrigation emitters for maximum yield
+- [ ] Test Drip irrigation emitters for off-grid capability
+- [ ] Test Drip irrigation emitters for power efficiency
+- [ ] Test Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Test Drip irrigation emitters for the Greenhouse build
+- [ ] Test Drip irrigation emitters to improve root oxygenation
+- [ ] Test Drip irrigation emitters to lower maintenance time
+- [ ] Test Drip irrigation emitters to prevent algae growth
+- [ ] Test Drip irrigation emitters to reduce water usage
+- [ ] Test Drip irrigation emitters to stabilize pH levels
+- [ ] Test Fogponics ultrasonic foggers for automated operation
+- [ ] Test Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Test Fogponics ultrasonic foggers for maximum yield
+- [ ] Test Fogponics ultrasonic foggers for off-grid capability
+- [ ] Test Fogponics ultrasonic foggers for power efficiency
+- [ ] Test Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Test Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Test Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Test Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Test Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Test Fogponics ultrasonic foggers to reduce water usage
+- [ ] Test Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Test LED Grow Lights for automated operation
+- [ ] Test LED Grow Lights for high-density urban farming
+- [ ] Test LED Grow Lights for maximum yield
+- [ ] Test LED Grow Lights for off-grid capability
+- [ ] Test LED Grow Lights for power efficiency
+- [ ] Test LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Test LED Grow Lights for the Greenhouse build
+- [ ] Test LED Grow Lights to improve root oxygenation
+- [ ] Test LED Grow Lights to lower maintenance time
+- [ ] Test LED Grow Lights to prevent algae growth
+- [ ] Test LED Grow Lights to reduce water usage
+- [ ] Test LED Grow Lights to stabilize pH levels
+- [ ] Test Net Pots for automated operation
+- [ ] Test Net Pots for high-density urban farming
+- [ ] Test Net Pots for maximum yield
+- [ ] Test Net Pots for off-grid capability
+- [ ] Test Net Pots for power efficiency
+- [ ] Test Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Test Net Pots for the Greenhouse build
+- [ ] Test Net Pots to improve root oxygenation
+- [ ] Test Net Pots to lower maintenance time
+- [ ] Test Net Pots to prevent algae growth
+- [ ] Test Net Pots to reduce water usage
+- [ ] Test Net Pots to stabilize pH levels
+- [ ] Test PVC Window Farms for automated operation
+- [ ] Test PVC Window Farms for high-density urban farming
+- [ ] Test PVC Window Farms for maximum yield
+- [ ] Test PVC Window Farms for off-grid capability
+- [ ] Test PVC Window Farms for power efficiency
+- [ ] Test PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Test PVC Window Farms for the Greenhouse build
+- [ ] Test PVC Window Farms to improve root oxygenation
+- [ ] Test PVC Window Farms to lower maintenance time
+- [ ] Test PVC Window Farms to prevent algae growth
+- [ ] Test PVC Window Farms to reduce water usage
+- [ ] Test PVC Window Farms to stabilize pH levels
+- [ ] Test Pool Noodle grow medium for automated operation
+- [ ] Test Pool Noodle grow medium for high-density urban farming
+- [ ] Test Pool Noodle grow medium for maximum yield
+- [ ] Test Pool Noodle grow medium for off-grid capability
+- [ ] Test Pool Noodle grow medium for power efficiency
+- [ ] Test Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Test Pool Noodle grow medium for the Greenhouse build
+- [ ] Test Pool Noodle grow medium to improve root oxygenation
+- [ ] Test Pool Noodle grow medium to lower maintenance time
+- [ ] Test Pool Noodle grow medium to prevent algae growth
+- [ ] Test Pool Noodle grow medium to reduce water usage
+- [ ] Test Pool Noodle grow medium to stabilize pH levels
+- [ ] Test Raspberry Pi nutrient dosers for automated operation
+- [ ] Test Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Test Raspberry Pi nutrient dosers for maximum yield
+- [ ] Test Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Test Raspberry Pi nutrient dosers for power efficiency
+- [ ] Test Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Test Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Test Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Test Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Test Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Test Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Test Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Test Reservoir tanks for automated operation
+- [ ] Test Reservoir tanks for high-density urban farming
+- [ ] Test Reservoir tanks for maximum yield
+- [ ] Test Reservoir tanks for off-grid capability
+- [ ] Test Reservoir tanks for power efficiency
+- [ ] Test Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Test Reservoir tanks for the Greenhouse build
+- [ ] Test Reservoir tanks to improve root oxygenation
+- [ ] Test Reservoir tanks to lower maintenance time
+- [ ] Test Reservoir tanks to prevent algae growth
+- [ ] Test Reservoir tanks to reduce water usage
+- [ ] Test Reservoir tanks to stabilize pH levels
+- [ ] Test Rockwool cubes for automated operation
+- [ ] Test Rockwool cubes for high-density urban farming
+- [ ] Test Rockwool cubes for maximum yield
+- [ ] Test Rockwool cubes for off-grid capability
+- [ ] Test Rockwool cubes for power efficiency
+- [ ] Test Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Test Rockwool cubes for the Greenhouse build
+- [ ] Test Rockwool cubes to improve root oxygenation
+- [ ] Test Rockwool cubes to lower maintenance time
+- [ ] Test Rockwool cubes to prevent algae growth
+- [ ] Test Rockwool cubes to reduce water usage
+- [ ] Test Rockwool cubes to stabilize pH levels
+- [ ] Test Timer relays for automated operation
+- [ ] Test Timer relays for high-density urban farming
+- [ ] Test Timer relays for maximum yield
+- [ ] Test Timer relays for off-grid capability
+- [ ] Test Timer relays for power efficiency
+- [ ] Test Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Test Timer relays for the Greenhouse build
+- [ ] Test Timer relays to improve root oxygenation
+- [ ] Test Timer relays to lower maintenance time
+- [ ] Test Timer relays to prevent algae growth
+- [ ] Test Timer relays to reduce water usage
+- [ ] Test Timer relays to stabilize pH levels
+- [ ] Test Vertical Towers for automated operation
+- [ ] Test Vertical Towers for high-density urban farming
+- [ ] Test Vertical Towers for maximum yield
+- [ ] Test Vertical Towers for off-grid capability
+- [ ] Test Vertical Towers for power efficiency
+- [ ] Test Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Test Vertical Towers for the Greenhouse build
+- [ ] Test Vertical Towers to improve root oxygenation
+- [ ] Test Vertical Towers to lower maintenance time
+- [ ] Test Vertical Towers to prevent algae growth
+- [ ] Test Vertical Towers to reduce water usage
+- [ ] Test Vertical Towers to stabilize pH levels
+- [ ] Test Water pumps for automated operation
+- [ ] Test Water pumps for high-density urban farming
+- [ ] Test Water pumps for maximum yield
+- [ ] Test Water pumps for off-grid capability
+- [ ] Test Water pumps for power efficiency
+- [ ] Test Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Test Water pumps for the Greenhouse build
+- [ ] Test Water pumps to improve root oxygenation
+- [ ] Test Water pumps to lower maintenance time
+- [ ] Test Water pumps to prevent algae growth
+- [ ] Test Water pumps to reduce water usage
+- [ ] Test Water pumps to stabilize pH levels
+- [ ] Test Water temperature sensors for automated operation
+- [ ] Test Water temperature sensors for high-density urban farming
+- [ ] Test Water temperature sensors for maximum yield
+- [ ] Test Water temperature sensors for off-grid capability
+- [ ] Test Water temperature sensors for power efficiency
+- [ ] Test Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Test Water temperature sensors for the Greenhouse build
+- [ ] Test Water temperature sensors to improve root oxygenation
+- [ ] Test Water temperature sensors to lower maintenance time
+- [ ] Test Water temperature sensors to prevent algae growth
+- [ ] Test Water temperature sensors to reduce water usage
+- [ ] Test Water temperature sensors to stabilize pH levels
+- [ ] Test ZipGrow style setup for automated operation
+- [ ] Test ZipGrow style setup for high-density urban farming
+- [ ] Test ZipGrow style setup for maximum yield
+- [ ] Test ZipGrow style setup for off-grid capability
+- [ ] Test ZipGrow style setup for power efficiency
+- [ ] Test ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Test ZipGrow style setup for the Greenhouse build
+- [ ] Test ZipGrow style setup to improve root oxygenation
+- [ ] Test ZipGrow style setup to lower maintenance time
+- [ ] Test ZipGrow style setup to prevent algae growth
+- [ ] Test ZipGrow style setup to reduce water usage
+- [ ] Test ZipGrow style setup to stabilize pH levels
+- [ ] Troubleshoot A-Frame system for automated operation
+- [ ] Troubleshoot A-Frame system for high-density urban farming
+- [ ] Troubleshoot A-Frame system for maximum yield
+- [ ] Troubleshoot A-Frame system for off-grid capability
+- [ ] Troubleshoot A-Frame system for power efficiency
+- [ ] Troubleshoot A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot A-Frame system for the Greenhouse build
+- [ ] Troubleshoot A-Frame system to improve root oxygenation
+- [ ] Troubleshoot A-Frame system to lower maintenance time
+- [ ] Troubleshoot A-Frame system to prevent algae growth
+- [ ] Troubleshoot A-Frame system to reduce water usage
+- [ ] Troubleshoot A-Frame system to stabilize pH levels
+- [ ] Troubleshoot Aeroponics misting nozzles for automated operation
+- [ ] Troubleshoot Aeroponics misting nozzles for high-density urban farming
+- [ ] Troubleshoot Aeroponics misting nozzles for maximum yield
+- [ ] Troubleshoot Aeroponics misting nozzles for off-grid capability
+- [ ] Troubleshoot Aeroponics misting nozzles for power efficiency
+- [ ] Troubleshoot Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Aeroponics misting nozzles for the Greenhouse build
+- [ ] Troubleshoot Aeroponics misting nozzles to improve root oxygenation
+- [ ] Troubleshoot Aeroponics misting nozzles to lower maintenance time
+- [ ] Troubleshoot Aeroponics misting nozzles to prevent algae growth
+- [ ] Troubleshoot Aeroponics misting nozzles to reduce water usage
+- [ ] Troubleshoot Aeroponics misting nozzles to stabilize pH levels
+- [ ] Troubleshoot Air pumps for automated operation
+- [ ] Troubleshoot Air pumps for high-density urban farming
+- [ ] Troubleshoot Air pumps for maximum yield
+- [ ] Troubleshoot Air pumps for off-grid capability
+- [ ] Troubleshoot Air pumps for power efficiency
+- [ ] Troubleshoot Air pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Air pumps for the Greenhouse build
+- [ ] Troubleshoot Air pumps to improve root oxygenation
+- [ ] Troubleshoot Air pumps to lower maintenance time
+- [ ] Troubleshoot Air pumps to prevent algae growth
+- [ ] Troubleshoot Air pumps to reduce water usage
+- [ ] Troubleshoot Air pumps to stabilize pH levels
+- [ ] Troubleshoot Airstones for automated operation
+- [ ] Troubleshoot Airstones for high-density urban farming
+- [ ] Troubleshoot Airstones for maximum yield
+- [ ] Troubleshoot Airstones for off-grid capability
+- [ ] Troubleshoot Airstones for power efficiency
+- [ ] Troubleshoot Airstones for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Airstones for the Greenhouse build
+- [ ] Troubleshoot Airstones to improve root oxygenation
+- [ ] Troubleshoot Airstones to lower maintenance time
+- [ ] Troubleshoot Airstones to prevent algae growth
+- [ ] Troubleshoot Airstones to reduce water usage
+- [ ] Troubleshoot Airstones to stabilize pH levels
+- [ ] Troubleshoot Arduino pH sensors for automated operation
+- [ ] Troubleshoot Arduino pH sensors for high-density urban farming
+- [ ] Troubleshoot Arduino pH sensors for maximum yield
+- [ ] Troubleshoot Arduino pH sensors for off-grid capability
+- [ ] Troubleshoot Arduino pH sensors for power efficiency
+- [ ] Troubleshoot Arduino pH sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Arduino pH sensors for the Greenhouse build
+- [ ] Troubleshoot Arduino pH sensors to improve root oxygenation
+- [ ] Troubleshoot Arduino pH sensors to lower maintenance time
+- [ ] Troubleshoot Arduino pH sensors to prevent algae growth
+- [ ] Troubleshoot Arduino pH sensors to reduce water usage
+- [ ] Troubleshoot Arduino pH sensors to stabilize pH levels
+- [ ] Troubleshoot Clay pebbles (Hydroton) for automated operation
+- [ ] Troubleshoot Clay pebbles (Hydroton) for high-density urban farming
+- [ ] Troubleshoot Clay pebbles (Hydroton) for maximum yield
+- [ ] Troubleshoot Clay pebbles (Hydroton) for off-grid capability
+- [ ] Troubleshoot Clay pebbles (Hydroton) for power efficiency
+- [ ] Troubleshoot Clay pebbles (Hydroton) for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Clay pebbles (Hydroton) for the Greenhouse build
+- [ ] Troubleshoot Clay pebbles (Hydroton) to improve root oxygenation
+- [ ] Troubleshoot Clay pebbles (Hydroton) to lower maintenance time
+- [ ] Troubleshoot Clay pebbles (Hydroton) to prevent algae growth
+- [ ] Troubleshoot Clay pebbles (Hydroton) to reduce water usage
+- [ ] Troubleshoot Clay pebbles (Hydroton) to stabilize pH levels
+- [ ] Troubleshoot Drip irrigation emitters for automated operation
+- [ ] Troubleshoot Drip irrigation emitters for high-density urban farming
+- [ ] Troubleshoot Drip irrigation emitters for maximum yield
+- [ ] Troubleshoot Drip irrigation emitters for off-grid capability
+- [ ] Troubleshoot Drip irrigation emitters for power efficiency
+- [ ] Troubleshoot Drip irrigation emitters for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Drip irrigation emitters for the Greenhouse build
+- [ ] Troubleshoot Drip irrigation emitters to improve root oxygenation
+- [ ] Troubleshoot Drip irrigation emitters to lower maintenance time
+- [ ] Troubleshoot Drip irrigation emitters to prevent algae growth
+- [ ] Troubleshoot Drip irrigation emitters to reduce water usage
+- [ ] Troubleshoot Drip irrigation emitters to stabilize pH levels
+- [ ] Troubleshoot Fogponics ultrasonic foggers for automated operation
+- [ ] Troubleshoot Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Troubleshoot Fogponics ultrasonic foggers for maximum yield
+- [ ] Troubleshoot Fogponics ultrasonic foggers for off-grid capability
+- [ ] Troubleshoot Fogponics ultrasonic foggers for power efficiency
+- [ ] Troubleshoot Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Troubleshoot Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Troubleshoot Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Troubleshoot Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Troubleshoot Fogponics ultrasonic foggers to reduce water usage
+- [ ] Troubleshoot Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Troubleshoot LED Grow Lights for automated operation
+- [ ] Troubleshoot LED Grow Lights for high-density urban farming
+- [ ] Troubleshoot LED Grow Lights for maximum yield
+- [ ] Troubleshoot LED Grow Lights for off-grid capability
+- [ ] Troubleshoot LED Grow Lights for power efficiency
+- [ ] Troubleshoot LED Grow Lights for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot LED Grow Lights for the Greenhouse build
+- [ ] Troubleshoot LED Grow Lights to improve root oxygenation
+- [ ] Troubleshoot LED Grow Lights to lower maintenance time
+- [ ] Troubleshoot LED Grow Lights to prevent algae growth
+- [ ] Troubleshoot LED Grow Lights to reduce water usage
+- [ ] Troubleshoot LED Grow Lights to stabilize pH levels
+- [ ] Troubleshoot Net Pots for automated operation
+- [ ] Troubleshoot Net Pots for high-density urban farming
+- [ ] Troubleshoot Net Pots for maximum yield
+- [ ] Troubleshoot Net Pots for off-grid capability
+- [ ] Troubleshoot Net Pots for power efficiency
+- [ ] Troubleshoot Net Pots for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Net Pots for the Greenhouse build
+- [ ] Troubleshoot Net Pots to improve root oxygenation
+- [ ] Troubleshoot Net Pots to lower maintenance time
+- [ ] Troubleshoot Net Pots to prevent algae growth
+- [ ] Troubleshoot Net Pots to reduce water usage
+- [ ] Troubleshoot Net Pots to stabilize pH levels
+- [ ] Troubleshoot PVC Window Farms for automated operation
+- [ ] Troubleshoot PVC Window Farms for high-density urban farming
+- [ ] Troubleshoot PVC Window Farms for maximum yield
+- [ ] Troubleshoot PVC Window Farms for off-grid capability
+- [ ] Troubleshoot PVC Window Farms for power efficiency
+- [ ] Troubleshoot PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot PVC Window Farms for the Greenhouse build
+- [ ] Troubleshoot PVC Window Farms to improve root oxygenation
+- [ ] Troubleshoot PVC Window Farms to lower maintenance time
+- [ ] Troubleshoot PVC Window Farms to prevent algae growth
+- [ ] Troubleshoot PVC Window Farms to reduce water usage
+- [ ] Troubleshoot PVC Window Farms to stabilize pH levels
+- [ ] Troubleshoot Pool Noodle grow medium for automated operation
+- [ ] Troubleshoot Pool Noodle grow medium for high-density urban farming
+- [ ] Troubleshoot Pool Noodle grow medium for maximum yield
+- [ ] Troubleshoot Pool Noodle grow medium for off-grid capability
+- [ ] Troubleshoot Pool Noodle grow medium for power efficiency
+- [ ] Troubleshoot Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Pool Noodle grow medium for the Greenhouse build
+- [ ] Troubleshoot Pool Noodle grow medium to improve root oxygenation
+- [ ] Troubleshoot Pool Noodle grow medium to lower maintenance time
+- [ ] Troubleshoot Pool Noodle grow medium to prevent algae growth
+- [ ] Troubleshoot Pool Noodle grow medium to reduce water usage
+- [ ] Troubleshoot Pool Noodle grow medium to stabilize pH levels
+- [ ] Troubleshoot Raspberry Pi nutrient dosers for automated operation
+- [ ] Troubleshoot Raspberry Pi nutrient dosers for high-density urban farming
+- [ ] Troubleshoot Raspberry Pi nutrient dosers for maximum yield
+- [ ] Troubleshoot Raspberry Pi nutrient dosers for off-grid capability
+- [ ] Troubleshoot Raspberry Pi nutrient dosers for power efficiency
+- [ ] Troubleshoot Raspberry Pi nutrient dosers for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Raspberry Pi nutrient dosers for the Greenhouse build
+- [ ] Troubleshoot Raspberry Pi nutrient dosers to improve root oxygenation
+- [ ] Troubleshoot Raspberry Pi nutrient dosers to lower maintenance time
+- [ ] Troubleshoot Raspberry Pi nutrient dosers to prevent algae growth
+- [ ] Troubleshoot Raspberry Pi nutrient dosers to reduce water usage
+- [ ] Troubleshoot Raspberry Pi nutrient dosers to stabilize pH levels
+- [ ] Troubleshoot Reservoir tanks for automated operation
+- [ ] Troubleshoot Reservoir tanks for high-density urban farming
+- [ ] Troubleshoot Reservoir tanks for maximum yield
+- [ ] Troubleshoot Reservoir tanks for off-grid capability
+- [ ] Troubleshoot Reservoir tanks for power efficiency
+- [ ] Troubleshoot Reservoir tanks for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Reservoir tanks for the Greenhouse build
+- [ ] Troubleshoot Reservoir tanks to improve root oxygenation
+- [ ] Troubleshoot Reservoir tanks to lower maintenance time
+- [ ] Troubleshoot Reservoir tanks to prevent algae growth
+- [ ] Troubleshoot Reservoir tanks to reduce water usage
+- [ ] Troubleshoot Reservoir tanks to stabilize pH levels
+- [ ] Troubleshoot Rockwool cubes for automated operation
+- [ ] Troubleshoot Rockwool cubes for high-density urban farming
+- [ ] Troubleshoot Rockwool cubes for maximum yield
+- [ ] Troubleshoot Rockwool cubes for off-grid capability
+- [ ] Troubleshoot Rockwool cubes for power efficiency
+- [ ] Troubleshoot Rockwool cubes for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Rockwool cubes for the Greenhouse build
+- [ ] Troubleshoot Rockwool cubes to improve root oxygenation
+- [ ] Troubleshoot Rockwool cubes to lower maintenance time
+- [ ] Troubleshoot Rockwool cubes to prevent algae growth
+- [ ] Troubleshoot Rockwool cubes to reduce water usage
+- [ ] Troubleshoot Rockwool cubes to stabilize pH levels
+- [ ] Troubleshoot Timer relays for automated operation
+- [ ] Troubleshoot Timer relays for high-density urban farming
+- [ ] Troubleshoot Timer relays for maximum yield
+- [ ] Troubleshoot Timer relays for off-grid capability
+- [ ] Troubleshoot Timer relays for power efficiency
+- [ ] Troubleshoot Timer relays for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Timer relays for the Greenhouse build
+- [ ] Troubleshoot Timer relays to improve root oxygenation
+- [ ] Troubleshoot Timer relays to lower maintenance time
+- [ ] Troubleshoot Timer relays to prevent algae growth
+- [ ] Troubleshoot Timer relays to reduce water usage
+- [ ] Troubleshoot Timer relays to stabilize pH levels
+- [ ] Troubleshoot Vertical Towers for automated operation
+- [ ] Troubleshoot Vertical Towers for high-density urban farming
+- [ ] Troubleshoot Vertical Towers for maximum yield
+- [ ] Troubleshoot Vertical Towers for off-grid capability
+- [ ] Troubleshoot Vertical Towers for power efficiency
+- [ ] Troubleshoot Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Vertical Towers for the Greenhouse build
+- [ ] Troubleshoot Vertical Towers to improve root oxygenation
+- [ ] Troubleshoot Vertical Towers to lower maintenance time
+- [ ] Troubleshoot Vertical Towers to prevent algae growth
+- [ ] Troubleshoot Vertical Towers to reduce water usage
+- [ ] Troubleshoot Vertical Towers to stabilize pH levels
+- [ ] Troubleshoot Water pumps for automated operation
+- [ ] Troubleshoot Water pumps for high-density urban farming
+- [ ] Troubleshoot Water pumps for maximum yield
+- [ ] Troubleshoot Water pumps for off-grid capability
+- [ ] Troubleshoot Water pumps for power efficiency
+- [ ] Troubleshoot Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Water pumps for the Greenhouse build
+- [ ] Troubleshoot Water pumps to improve root oxygenation
+- [ ] Troubleshoot Water pumps to lower maintenance time
+- [ ] Troubleshoot Water pumps to prevent algae growth
+- [ ] Troubleshoot Water pumps to reduce water usage
+- [ ] Troubleshoot Water pumps to stabilize pH levels
+- [ ] Troubleshoot Water temperature sensors for automated operation
+- [ ] Troubleshoot Water temperature sensors for high-density urban farming
+- [ ] Troubleshoot Water temperature sensors for maximum yield
+- [ ] Troubleshoot Water temperature sensors for off-grid capability
+- [ ] Troubleshoot Water temperature sensors for power efficiency
+- [ ] Troubleshoot Water temperature sensors for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot Water temperature sensors for the Greenhouse build
+- [ ] Troubleshoot Water temperature sensors to improve root oxygenation
+- [ ] Troubleshoot Water temperature sensors to lower maintenance time
+- [ ] Troubleshoot Water temperature sensors to prevent algae growth
+- [ ] Troubleshoot Water temperature sensors to reduce water usage
+- [ ] Troubleshoot Water temperature sensors to stabilize pH levels
+- [ ] Troubleshoot ZipGrow style setup for automated operation
+- [ ] Troubleshoot ZipGrow style setup for high-density urban farming
+- [ ] Troubleshoot ZipGrow style setup for maximum yield
+- [ ] Troubleshoot ZipGrow style setup for off-grid capability
+- [ ] Troubleshoot ZipGrow style setup for power efficiency
+- [ ] Troubleshoot ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Troubleshoot ZipGrow style setup for the Greenhouse build
+- [ ] Troubleshoot ZipGrow style setup to improve root oxygenation
+- [ ] Troubleshoot ZipGrow style setup to lower maintenance time
+- [ ] Troubleshoot ZipGrow style setup to prevent algae growth
+- [ ] Troubleshoot ZipGrow style setup to reduce water usage
+- [ ] Troubleshoot ZipGrow style setup to stabilize pH levels
+- [ ] Upgrade A-Frame system for automated operation
+- [ ] Upgrade A-Frame system for high-density urban farming
+- [ ] Upgrade A-Frame system for maximum yield
+- [ ] Upgrade A-Frame system for off-grid capability
+- [ ] Upgrade A-Frame system for power efficiency
+- [ ] Upgrade A-Frame system for the Awesome-Vertical-Hydroponics list
+- [ ] Upgrade A-Frame system for the Greenhouse build
+- [ ] Upgrade A-Frame system to improve root oxygenation
+- [ ] Upgrade A-Frame system to lower maintenance time
+- [ ] Upgrade A-Frame system to prevent algae growth
+- [ ] Upgrade A-Frame system to reduce water usage
+- [ ] Upgrade A-Frame system to stabilize pH levels
+- [ ] Upgrade Aeroponics misting nozzles for automated operation
+- [ ] Upgrade Aeroponics misting nozzles for high-density urban farming
+- [ ] Upgrade Aeroponics misting nozzles for maximum yield
+- [ ] Upgrade Aeroponics misting nozzles for off-grid capability
+- [ ] Upgrade Aeroponics misting nozzles for power efficiency
+- [ ] Upgrade Aeroponics misting nozzles for the Awesome-Vertical-Hydroponics list
+- [ ] Upgrade Aeroponics misting nozzles for the Greenhouse build
+- [ ] Upgrade Aeroponics misting nozzles to improve root oxygenation
+- [ ] Upgrade Aeroponics misting nozzles to lower maintenance time
+- [ ] Upgrade Aeroponics misting nozzles to prevent algae growth
+- [ ] Upgrade Aeroponics misting nozzles to reduce water usage
+- [ ] Upgrade Aeroponics misting nozzles to stabilize pH levels
+- [ ] Upgrade Fogponics ultrasonic foggers for automated operation
+- [ ] Upgrade Fogponics ultrasonic foggers for high-density urban farming
+- [ ] Upgrade Fogponics ultrasonic foggers for maximum yield
+- [ ] Upgrade Fogponics ultrasonic foggers for off-grid capability
+- [ ] Upgrade Fogponics ultrasonic foggers for power efficiency
+- [ ] Upgrade Fogponics ultrasonic foggers for the Awesome-Vertical-Hydroponics list
+- [ ] Upgrade Fogponics ultrasonic foggers for the Greenhouse build
+- [ ] Upgrade Fogponics ultrasonic foggers to improve root oxygenation
+- [ ] Upgrade Fogponics ultrasonic foggers to lower maintenance time
+- [ ] Upgrade Fogponics ultrasonic foggers to prevent algae growth
+- [ ] Upgrade Fogponics ultrasonic foggers to reduce water usage
+- [ ] Upgrade Fogponics ultrasonic foggers to stabilize pH levels
+- [ ] Upgrade LED Grow Lights for automated operation
+- [ ] Upgrade LED Grow Lights for high-density urban farming
+- [ ] Upgrade LED Grow Lights for maximum yield
+- [ ] Upgrade LED Grow Lights for power efficiency
+- [ ] Upgrade PVC Window Farms for automated operation
+- [ ] Upgrade PVC Window Farms for high-density urban farming
+- [ ] Upgrade PVC Window Farms for maximum yield
+- [ ] Upgrade PVC Window Farms for off-grid capability
+- [ ] Upgrade PVC Window Farms for power efficiency
+- [ ] Upgrade PVC Window Farms for the Awesome-Vertical-Hydroponics list
+- [ ] Upgrade PVC Window Farms for the Greenhouse build
+- [ ] Upgrade PVC Window Farms to improve root oxygenation
+- [ ] Upgrade PVC Window Farms to lower maintenance time
+- [ ] Upgrade PVC Window Farms to prevent algae growth
+- [ ] Upgrade PVC Window Farms to reduce water usage
+- [ ] Upgrade PVC Window Farms to stabilize pH levels
+- [ ] Upgrade Pool Noodle grow medium for automated operation
+- [ ] Upgrade Pool Noodle grow medium for high-density urban farming
+- [ ] Upgrade Pool Noodle grow medium for maximum yield
+- [ ] Upgrade Pool Noodle grow medium for off-grid capability
+- [ ] Upgrade Pool Noodle grow medium for power efficiency
+- [ ] Upgrade Pool Noodle grow medium for the Awesome-Vertical-Hydroponics list
+- [ ] Upgrade Pool Noodle grow medium for the Greenhouse build
+- [ ] Upgrade Pool Noodle grow medium to improve root oxygenation
+- [ ] Upgrade Pool Noodle grow medium to lower maintenance time
+- [ ] Upgrade Pool Noodle grow medium to prevent algae growth
+- [ ] Upgrade Pool Noodle grow medium to reduce water usage
+- [ ] Upgrade Pool Noodle grow medium to stabilize pH levels
+- [ ] Upgrade Vertical Towers for automated operation
+- [ ] Upgrade Vertical Towers for high-density urban farming
+- [ ] Upgrade Vertical Towers for maximum yield
+- [ ] Upgrade Vertical Towers for off-grid capability
+- [ ] Upgrade Vertical Towers for power efficiency
+- [ ] Upgrade Vertical Towers for the Awesome-Vertical-Hydroponics list
+- [ ] Upgrade Vertical Towers for the Greenhouse build
+- [ ] Upgrade Vertical Towers to improve root oxygenation
+- [ ] Upgrade Vertical Towers to lower maintenance time
+- [ ] Upgrade Vertical Towers to prevent algae growth
+- [ ] Upgrade Vertical Towers to reduce water usage
+- [ ] Upgrade Vertical Towers to stabilize pH levels
+- [ ] Upgrade Water pumps for automated operation
+- [ ] Upgrade Water pumps for high-density urban farming
+- [ ] Upgrade Water pumps for maximum yield
+- [ ] Upgrade Water pumps for off-grid capability
+- [ ] Upgrade Water pumps for power efficiency
+- [ ] Upgrade Water pumps for the Awesome-Vertical-Hydroponics list
+- [ ] Upgrade Water pumps for the Greenhouse build
+- [ ] Upgrade Water pumps to improve root oxygenation
+- [ ] Upgrade Water pumps to lower maintenance time
+- [ ] Upgrade Water pumps to prevent algae growth
+- [ ] Upgrade Water pumps to reduce water usage
+- [ ] Upgrade Water pumps to stabilize pH levels
+- [ ] Upgrade ZipGrow style setup for automated operation
+- [ ] Upgrade ZipGrow style setup for high-density urban farming
+- [ ] Upgrade ZipGrow style setup for maximum yield
+- [ ] Upgrade ZipGrow style setup for off-grid capability
+- [ ] Upgrade ZipGrow style setup for power efficiency
+- [ ] Upgrade ZipGrow style setup for the Awesome-Vertical-Hydroponics list
+- [ ] Upgrade ZipGrow style setup for the Greenhouse build
+- [ ] Upgrade ZipGrow style setup to improve root oxygenation
+- [ ] Upgrade ZipGrow style setup to lower maintenance time
+- [ ] Upgrade ZipGrow style setup to prevent algae growth
+- [ ] Upgrade ZipGrow style setup to reduce water usage
+- [ ] Upgrade ZipGrow style setup to stabilize pH levels
